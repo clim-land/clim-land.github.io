@@ -68,9 +68,11 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 
 
+<div style="text-align: center;"> <!-- 将包裹figure的div设置为文本居中 -->
+  <figure class="fourth" style="display: inline-block;"> <!-- 设置figure为行内块以便整体居中 -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BFU1.jpg" style="width: 420px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/humboldt2.jpg" style="width: 240px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PIK1.jpg" style="width: 240px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
+  </figure>
+</div>
 
-<figure class="fourth" style="text-align:center;"> <!-- 添加了 text-align:center; 来居中图片 -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BFU1.jpg" style="width: 420px; display: block; margin: auto;"> <!-- 增加了宽度和居中样式 -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/humboldt2.jpg" style="width: 240px; display: block; margin: auto;"> <!-- 增加了宽度和居中样式 -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PIK1.jpg" style="width: 240px; display: block; margin: auto;"> <!-- 增加了宽度和居中样式 -->
-</figure>
