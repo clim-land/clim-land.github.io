@@ -76,3 +76,138 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
   </figure>
 </div>
 
+<div class="container">
+		<div class="title-div">
+			<h3 class="tittle">
+					<span>N</span>ews
+			</h3>
+				<div class="tittle-style">
+
+				</div>
+			</div>
+	<div class="grid_3 grid_4 w3layouts">
+				<div class="bs-example">
+					<table class="table">
+						<tbody
+						  <tr>
+								<td>	
+									<p>Our group is recruiting two postdocs.See <a href="https://mp.weixin.qq.com/s/5whZMMUjbh25kVGj2LRvPw">this page</a> for more information.</p>
+									
+								</td>
+								<td class="type-info">Dec.23 2021</td>
+							</tr>
+						  <tr>
+								<td>	
+									<p>Conference announcements - Observing Earth System from Space· International Forum.<a href="http://ess.sustech.edu.cn/New-detail-id-573.html">for more</a></p>
+									
+								</td>
+								<td class="type-info">NOV.23 2021</td>
+							</tr>
+						  <tr>
+								<td>	
+									<p>Congratulations to undergraduate  Ye Zhengnong on his graduation.<a href="/News-zhengnong">for more</a></p>
+									
+								</td>
+								<td class="type-info">May.31 2021</td>
+							</tr>
+						  <tr>
+								<td>	
+									<p>Report of GCL of scholarly communication and field work in Hainan.<a href="/News-sanya">for more</a></p>
+									
+								</td>
+								<td class="type-info">Apr.27 2021</td>
+							</tr>						
+						  <tr>
+								<td>	
+									<p>X.L. Deng and J. Ran published a comment paper in Earth-Science Reviews, whose impact factor is ~9.7.</p>
+									
+								</td>
+								<td class="type-info">NOV.24 2020</td>
+							</tr>
+							
+						  <tr>
+								<td>	
+									<p>Welcome Professor Zhong Min from Innovation Academy for Precision Measurement Science and Technology to the GCL research group for a report on Recent Progress of Satellite Gravimetry and Its Application to Detect the Deep Oceanic Warming.<a href='http://ess.sustech.edu.cn/New-detail-id-468.html'>for more </a></p>
+									
+								</td>
+								<td class="type-info">NOV.15 2020</td>
+							</tr>
+							
+						  <tr>
+								<td>	
+									<p>Welcome Professor Feng Wei from Innovation Academy for Precision Measurement Science and Technology to the GCL research group for a report on Monitoring groundwater changes using multiple geodetic observations.<a href='http://ess.sustech.edu.cn/New-detail-id-469.html'>for more</a></p>
+									
+								</td>
+								<td class="type-info">NOV.15 2020</td>
+							</tr>
+							
+						    <tr>
+								<td>
+									
+									<p>Welcome Professor Tao Benzao from Wuhan University to teach the course of modern measurement data processing in GCL research group.<a href='http://ess.sustech.edu.cn/New-detail-id-460.html'>for more</a></p>
+									
+								</td>
+								<td class="type-info">NOV.15 2020</td>
+							</tr>
+							
+							
+							<tr>
+								<td>
+									
+									<p>The GCL research group attend The Annual Meeting of Chinese Geoscience Union (CGU). <a href="/News-cgu">for more</a></p>
+									
+								</td>
+								<td class="type-info">Oct.23 2020</td>
+							</tr>
+							<tr>
+								<td>
+									
+									<p>Weclome Dr. Xiao-Le Deng to our group as a new Postdoc.</p>
+									
+								</td>
+								<td class="type-info">Sep.15 2020</td>
+							</tr>
+							<tr>
+								<td>
+									
+									<p>Weclome Zehao Gong to our group as a new master student.</p>
+									
+								</td>
+								<td class="type-info">Aug.27 2020</td>
+							</tr>
+							<tr>
+								<td>
+									
+									<p>Field survey on the Qinghai-Tibet Plateau. <a href="https://mp.weixin.qq.com/s/WrSCUr22-3kwzMtWoPDTXw">for more</a></p>
+									
+								</td>
+								<td class="type-info">Aug.10 2020</td>
+							</tr>
+							<tr>
+								<td>
+									
+									<p>Weclome to  Linyang Xin to our group as a new PhD student. </p>
+									
+								</td>
+								<td class="type-info"> July.13 2020</td>
+							</tr>
+							<tr>
+								<td>
+									
+									<p> <a href="/allnews.html">More News...</a> </p>
+									
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>	
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-4">
