@@ -69,9 +69,8 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BFU1.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/homboldt2.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PIK1.jpg" style="width: 120px">
-
+<figure class="fourth" style="text-align:center;"> <!-- 添加了 text-align:center; 来居中图片 -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BFU1.jpg" style="width: 420px; display: block; margin: auto;"> <!-- 增加了宽度和居中样式 -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/humboldt2.jpg" style="width: 240px; display: block; margin: auto;"> <!-- 增加了宽度和居中样式 -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PIK1.jpg" style="width: 240px; display: block; margin: auto;"> <!-- 增加了宽度和居中样式 -->
 </figure>
