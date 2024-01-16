@@ -47,32 +47,21 @@ firstp {
 }
 
 /* Home, News */
-/* 将新闻模块居中 */
 #newsid {
   width: 80%; /* 定义宽度 */
-  margin: 0 auto; /* 水平居中 */
-  text-align: center; /* 文本居中 */
-  display: block; /* 确保元素是块级元素 */
-  !important; /* 只用于确保样式被应用，通常不推荐使用 */
+  margin: 0 auto !important; /* 水平居中，增加优先级 */
+  text-align: center !important; /* 文本居中，增加优先级 */
+  display: block !important; /* 确保元素是块级元素，增加优先级 */
 }
 
-/* 新闻模块内的段落样式 */
-#newsid p {
-  text-align: left !important; /* 如果你仍然希望段落文本左对齐 */
-}
 
-/* 新闻模块内的图片样式 */
-#newsid img {
-  margin-top: 6px !important;
-  margin-bottom: 6px !important;
-  display: block !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-/* 首页标题居中 */
 #homeidtmp h1 {
-  text-align: center !important;
+	text-align: center;
+}
+
+#newsid img {
+	margin-top: 6px;
+	margin-bottom: 6px;
 }
 
   
