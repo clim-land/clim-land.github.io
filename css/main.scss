@@ -47,18 +47,39 @@ firstp {
 }
 
 /* Home, News */
-#newsid p {
-	text-align: left;
-}
-
-#homeidtmp h1 {
-	text-align: center;
-}
-
-#newsid img {
-	margin-top: 6px;
-	margin-bottom: 6px;
-}
+/* 共同样式，用于居中新闻和首页内容 */
+.centered-content {
+	width: 80%; /* 或你希望的宽度 */
+	margin: 0 auto; /* 自动边距实现水平居中 */
+	text-align: center; /* 文本居中 */
+  }
+  
+  /* 应用到新闻模块的样式 */
+  #newsid {
+	/* 继承共同的居中样式 */
+  }
+  
+  #newsid p {
+	/* 如果段落文本也需要居中，取消注释下面的代码 */
+	/* text-align: center; */
+  }
+  
+  #newsid img {
+	display: block; /* 图片块级显示 */
+	margin-left: auto; /* 图片左边距自动 */
+	margin-right: auto; /* 图片右边距自动 */
+	/* 继承共同的垂直边距样式 */
+  }
+  
+  /* 应用到首页内容的样式 */
+  #homeidtmp {
+	/* 继承共同的居中样式 */
+  }
+  
+  #homeidtmp h1 {
+	/* 已经设置为文本居中，可以保留 */
+  }
+  
 
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
