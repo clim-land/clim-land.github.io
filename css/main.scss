@@ -47,38 +47,34 @@ firstp {
 }
 
 /* Home, News */
-/* 共同样式，用于居中新闻和首页内容 */
-.centered-content {
-	width: 80%; /* 或你希望的宽度 */
-	margin: 0 auto; /* 自动边距实现水平居中 */
-	text-align: center; /* 文本居中 */
-  }
-  
-  /* 应用到新闻模块的样式 */
-  #newsid {
-	/* 继承共同的居中样式 */
-  }
-  
-  #newsid p {
-	/* 如果段落文本也需要居中，取消注释下面的代码 */
-	/* text-align: center; */
-  }
-  
-  #newsid img {
-	display: block; /* 图片块级显示 */
-	margin-left: auto; /* 图片左边距自动 */
-	margin-right: auto; /* 图片右边距自动 */
-	/* 继承共同的垂直边距样式 */
-  }
-  
-  /* 应用到首页内容的样式 */
-  #homeidtmp {
-	/* 继承共同的居中样式 */
-  }
-  
-  #homeidtmp h1 {
-	/* 已经设置为文本居中，可以保留 */
-  }
+/* 将新闻模块居中 */
+#newsid {
+  width: 80%; /* 定义宽度 */
+  margin: 0 auto; /* 水平居中 */
+  text-align: center; /* 文本居中 */
+  display: block; /* 确保元素是块级元素 */
+  !important; /* 只用于确保样式被应用，通常不推荐使用 */
+}
+
+/* 新闻模块内的段落样式 */
+#newsid p {
+  text-align: left !important; /* 如果你仍然希望段落文本左对齐 */
+}
+
+/* 新闻模块内的图片样式 */
+#newsid img {
+  margin-top: 6px !important;
+  margin-bottom: 6px !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* 首页标题居中 */
+#homeidtmp h1 {
+  text-align: center !important;
+}
+
   
 
 /* Team & Publications */
