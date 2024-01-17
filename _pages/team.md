@@ -1,19 +1,30 @@
 ---
 title: "Clim-land - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Clim-land: Team members"
 sitemap: false
 permalink: /team/
 ---
+# Group Leaders
+<div class="col-sm-6 clearfix">
+  <img src="/images/teampic/member_photo.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Xudong Wu</h4>
+  <i>Associate Professor, Alexander von Humboldt Fellow
+Beijing Forestry University, China
+Potsdam Institute for Climate Impact Research, Germany
+E-mail: wuxudong@bjfu.edu.cn; xdwu@pku.edu.cn
+Research ID: https://orcid.org/0000-0002-0752-0282<!--<br>email: <email@example.com> --></i>
+  <ul style="overflow: hidden">
+    <!-- 这里可以放置更多的成员详细信息列表 -->
+  </ul>
+</div>
+
+
 
 # Group Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
