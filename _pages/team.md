@@ -19,7 +19,8 @@ Research ID: https://orcid.org/0000-0002-0752-0282<!--<br>email: <email@example.
   </ul>
 </div>
 
-
+<!-- Clearfix to ensure that the following content starts on a new line -->
+<div class="clearfix"></div> <!-- This div ends the floating effect -->
 
 # Group Members
 
