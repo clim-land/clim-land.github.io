@@ -75,7 +75,7 @@ permalink: /publications/
 </div>
 
 <div class="article">
-  <h2 style="font-weight: bold; text-align: left;">Resource exergy analysis of the Chinese society in 2017</h2>
+  <p style="font-weight: bold; text-align: left;">Resource exergy analysis of the Chinese society in 2017</p>
   <p style="font-style: italic; text-align: left;">Zheng Meng; Zhuan Yang; Bo Zhang; Xudong Wu</p>
   <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Environmental Science and Pollution Research</a></p>
 </div>
