@@ -8,6 +8,22 @@ permalink: /
 
 **News: This is the Climate Change and Land Use Research Group！** Wu Xudong's research group is affiliated with the School of Soil and Water Conservation, Beijing Forestry University, and is dedicated to the study of climate change, land use, and economic impacts of disasters.
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <!-- Add any other head contents here like CSS links, etc. -->
+    
+    <!-- Carousel Image Styles -->
+    <style>
+        .carousel-inner .item img {
+            width: 100%; /* Set width to 100% of the container */
+            height: auto; /* Set height to auto to maintain aspect ratio */
+            margin: auto; /* Center the image if it's smaller than the container */
+        }
+    </style>
+</head>
+<body> 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
