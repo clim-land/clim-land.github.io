@@ -1,7 +1,7 @@
 ---
 title: "Clim-land - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Clim-land at Beijing Forestry University."
 sitemap: false
 permalink: /
 ---
