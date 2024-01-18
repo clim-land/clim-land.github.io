@@ -63,13 +63,13 @@ permalink: /publications/
 ## 2023
 
 <div class="article">
-  <h2 style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH4 emissions: Evidences from income-based accounting and decomposition analysis</h2>
+  <h4 style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH4 emissions: Evidences from income-based accounting and decomposition analysis</h4>
   <p style="font-style: italic; text-align: left;">Xuelei Cheng; Xudong Wu; Chenghe Guan; Xudong Sun; Bo Zhang</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Economics</a></p>
 </div>
 
 <div class="article">
-  <h2 style="font-weight: bold; text-align: left;">Mutual complementarity of arable land use in the Sino-Africa trade: Evidence from the global supply chain</h2>
+  <h4 style="font-weight: bold; text-align: left;">Mutual complementarity of arable land use in the Sino-Africa trade: Evidence from the global supply chain</h4>
   <p style="font-style: italic; text-align: left;">Xi Ji; Pinyi Su; Yifang Liu; Guowei Wu; Xudong Wu</p>
   <p><a href="10.1016/j.landusepol.2023.106588" style="font-weight: bold; text-decoration: none;">Land Use Policy</a></p>
 </div>
