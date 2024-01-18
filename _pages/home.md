@@ -9,26 +9,7 @@ permalink: /
 **News: This is the Climate Change and Land Use Research Group！** Wu Xudong's research group is affiliated with the School of Soil and Water Conservation, Beijing Forestry University, and is dedicated to the study of climate change, land use, and economic impacts of disasters.
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-    <!-- Add any other head contents here like CSS links, etc. -->
-    
-    <!-- Carousel Image Styles -->
-    <style>
-        .carousel-inner .item img {
-            width: 100%; /* Set width to 100% of the container */
-            height: auto; /* Set height to auto to maintain aspect ratio */
-            margin: auto; /* Center the image if it's smaller than the container */
-        }
-    </style>
-</head>
-<body>
-
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -41,35 +22,32 @@ permalink: /
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner">
+    <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="/images/slider7001400/autumn.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/autumn.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/xiangshan.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/xiangshan.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/acclimate.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/acclimate.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/gcam.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/gcam.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/tu.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tu.jpg" alt="Slide 5" />
         </div>       
     </div>
-
-    <!-- Carousel controls -->
-    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
-
 
 We are an enthusiastic and dynamic research group in the School of Soil and Water Conservation, Beijing Forestry University, dedicated to cross-disciplinary research in multiple directions. Our main research directions include large-scale soil erosion modelling, forest carbon sink, climate economics, thermodynamics, land use and land cover change, natural disaster risk analysis and so on. For this reason, our group includes students from different academic backgrounds in order to better achieve excellent research results. We look forward to each member's efforts to address the scientific questions that we believe are important  (see [Research](research)). 
 
