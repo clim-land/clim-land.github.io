@@ -51,12 +51,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
-
 ## Full List of publications
 
 {% for publi in site.data.publist %}
@@ -65,3 +59,23 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+## 2023
+
+<div class="article">
+  <h2 style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH4 emissions: Evidences from income-based accounting and decomposition analysis</h2>
+  <p style="font-style: italic; text-align: left;">Xuelei Cheng; Xudong Wu; Chenghe Guan; Xudong Sun; Bo Zhang</p>
+  <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Economics</a></p>
+</div>
+
+<div class="article">
+  <h2 style="font-weight: bold; text-align: left;">Mutual complementarity of arable land use in the Sino-Africa trade: Evidence from the global supply chain</h2>
+  <p style="font-style: italic; text-align: left;">Xi Ji; Pinyi Su; Yifang Liu; Guowei Wu; Xudong Wu</p>
+  <p><a href="10.1016/j.landusepol.2023.106588" style="font-weight: bold; text-decoration: none;">Land Use Policy</a></p>
+</div>
+
+<div class="article">
+  <h2 style="font-weight: bold; text-align: left;">Resource exergy analysis of the Chinese society in 2017</h2>
+  <p style="font-style: italic; text-align: left;">Zheng Meng; Zhuan Yang; Bo Zhang; Xudong Wu</p>
+  <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Environmental Science and Pollution Research</a></p>
+</div>

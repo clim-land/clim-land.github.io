@@ -51,15 +51,13 @@
   education1: Postgraduates,Beijing Forestry University
 
 
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
+- name: Jingyu Liu
+  photo: jingyu.png
+  info: Postgraduates, started July 2021
+  email: laujingyu@bjfu.edu.cn
+  number_educ: 1
+  education1: Postgraduates,Beijing Forestry University
+
 
 - name: Kees van Oosten
   photo: DSC_1032.JPG
