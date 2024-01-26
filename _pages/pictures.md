@@ -52,10 +52,10 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange1.jpg" width="50%"><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/interchange2.jpg" width="50%">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange3.jpg" width="50%"><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange4.jpg" width="50%">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange1.jpg" style="width: 50%; display: inline-block;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/interchange2.jpg" style="width: 50%; display: inline-block;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange3.jpg" style="width: 50%; display: inline-block;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange4.jpg" style="width: 50%; display: inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange1.jpg" style="width: 40%; display: inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/interchange2.jpg" style="width: 40%; display: inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange3.jpg" style="width: 40%; display: inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange4.jpg" style="width: 40%; display: inline-block;">
 
 </figure>
 
