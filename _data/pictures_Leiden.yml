@@ -11,13 +11,15 @@
 - title: pic1_description
   image: sing2.JPG
 - title: pic1_description
+  image: sing3.JPG
+- title: pic1_description
   image: autumn.jpg
 - title: pic1_description
   image: jixian.jpg
 - title: pic1_description
-  image: sing3.JPG
-- title: pic1_description
   image: xiangshan.jpg
+- title: pic1_description
+  image: first.jpg
 - title: pic1_description
   image: yiheyuan.JPG
 - title: pic1_description
@@ -34,8 +36,6 @@
   image: cool.JPG
 - title: pic1_description
   image: dangao.JPG
-- title: pic1_description
-  image: first.jpg
 - title: pic1_description
   image: all.JPG
 - title: pic1_description
