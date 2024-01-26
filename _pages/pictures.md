@@ -19,7 +19,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -51,7 +51,11 @@ permalink: /pictures/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange1.jpg" width="50%"><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/interchange2.jpg" width="50%">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange3.jpg" width="50%"><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange4.jpg" width="50%">
-
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange1.jpg" style="width: 25%; display: inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/interchange2.jpg" style="width: 25%; display: inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange3.jpg" style="width: 25%; display: inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange4.jpg" style="width: 25%; display: inline-block;">
 
 </figure>
 
