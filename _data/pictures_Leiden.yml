@@ -1,6 +1,4 @@
 - title: pic1_description
-  image: autumn.jpg
-- title: pic1_description
   image: biye.JPG
 - title: pic_description
   image: biyeji.JPG
@@ -9,11 +7,13 @@
 - title: pic1_description
   image: hechang.JPG
 - title: pic1_description
-  image: jixian.jpg
-- title: pic1_description
   image: sing1.JPG
 - title: pic1_description
   image: sing2.JPG
+- title: pic1_description
+  image: autumn.jpg
+- title: pic1_description
+  image: jixian.jpg
 - title: pic1_description
   image: sing3.JPG
 - title: pic1_description
@@ -29,8 +29,6 @@
 - title: pic1_description
   image: sing5.JPG
 - title: pic1_description
-  image: sing6.JPG
-- title: pic1_description
   image: sing7.JPG
 - title: pic1_description
   image: cool.JPG
@@ -39,8 +37,10 @@
 - title: pic1_description
   image: first.jpg
 - title: pic1_description
+  image: all.JPG
+- title: pic1_description
   image: kuaile.JPG
 - title: pic1_description
   image: love.JPG
 - title: pic1_description
-  image: all.JPG
+  image: sing6.JPG
