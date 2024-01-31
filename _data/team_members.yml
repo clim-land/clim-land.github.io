@@ -1,10 +1,3 @@
-- name: Yongjuan Xie
-  photo: yongjuan.jpg
-  info: Doc, started July 2023
-  email: niuxintong@bjfu.edu.cn
-  number_educ: 2
-  education1: Postgraduates,Beijing Forestry University
-  education2: PhD,Beijing Normal University
 
 - name: Yitian Xie
   photo: Yitian.png
@@ -13,20 +6,6 @@
   number_educ: 2
   education1: Graduates,Beijing Forestry University
   education2: Postgraduates,Beijing Forestry University
-
-- name: Xintong Niu
-  photo: Xintong.jpg
-  info: Postgraduates, started July 2022
-  email: niuxintong@bjfu.edu.cn
-  number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
-
-- name: Moran Wang
-  photo: moran.jpg
-  info: Postgraduates, started July 2022
-  email: wangmoran@bjfu.edu.cn
-  number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
 
 - name: Zimeng Ge
   photo: zimeng.jpg
@@ -42,14 +21,26 @@
   number_educ: 1
   education1: Postgraduates,Beijing Forestry University
 
-
-- name: Yimeng Xu
-  photo: yimeng.jpg
-  info: Postgraduates, started July 2021
-  email: xymxym19990114@bjfu.edu.cn
+- name: Xintong Niu
+  photo: Xintong.jpg
+  info: Postgraduates, started July 2022
+  email: niuxintong@bjfu.edu.cn
   number_educ: 1
   education1: Postgraduates,Beijing Forestry University
 
+- name: Moran Wang
+  photo: moran.jpg
+  info: Postgraduates, started July 2022
+  email: wangmoran@bjfu.edu.cn
+  number_educ: 1
+  education1: Postgraduates,Beijing Forestry University
+ 
+- name: Rongtian Zhang
+  photo: rongtian.jpg
+  info: Postgraduates, started July 2022
+  email: Zrt19980218@bjfu.edu.cn
+  number_educ: 1
+  education1: Postgraduates,Beijing Forestry University
 
 - name: Jingyu Liu
   photo: jingyu.jpg
@@ -58,13 +49,27 @@
   number_educ: 1
   education1: Postgraduates,Beijing Forestry University
 
+- name: Yimeng Xu
+  photo: yimeng.jpg
+  info: Postgraduates, started July 2021
+  email: xymxym19990114@bjfu.edu.cn
+  number_educ: 1
+  education1: Postgraduates,Beijing Forestry University
 
 - name: Man Guo
   photo: guoman.jpg
-  info: Doc, started July 2022
+  info: Doc(co-supervisor), started July 2022
   email: 202131051042@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD,Beijing Normal University
+
+- name: Yongjuan Xie
+  photo: yongjuan.jpg
+  info: Doc(co-supervisor), started July 2023
+  email: niuxintong@bjfu.edu.cn
+  number_educ: 2
+  education1: Postgraduates,Beijing Forestry University
+  education2: PhD,Beijing Normal University
 
 - name: "This could be you !"
   photo: rock.jpg
