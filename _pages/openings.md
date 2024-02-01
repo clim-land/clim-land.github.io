@@ -20,6 +20,6 @@ In our team, diversity in academic backgrounds is not just welcomed, it's essent
 
 <div style="text-align: center;"> <!-- 将包裹figure的div设置为文本居中 -->
   <figure class="fourth" style="display: inline-block;"> <!-- 设置figure为行内块以便整体居中 -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/welcome.jpg" style="width: 420px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/welcome.JPG" style="width: 420px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
   </figure>
 </div>
