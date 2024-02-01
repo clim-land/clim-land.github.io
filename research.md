@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our research group focuses on developing integrated solutions for environmental sustainability and climate resilience. Moreover，our research direction is multidisciplinary, integrating the fields of environmental science, ecology, economics, and physics to address some of the most pressing challenges posed by climate change and land use dynamics.
+**Our research group focuses on developing integrated solutions for environmental sustainability and climate resilience. Moreover，our research direction is multidisciplinary, integrating the fields of environmental science, ecology, economics, and physics to address some of the most pressing challenges posed by climate change and land use dynamics.**
 
 One of our research is to develop comprehensive models and strategies to mitigate large-scale soil erosion, a crucial issue that significantly impacts land use and land cover change. We aim to understand the dynamics of soil erosion processes and their implications on agricultural productivity, water resources, and ecosystem health.
 
@@ -32,10 +32,11 @@ Zhixiao Zhou；Xintong Niu...
 Tianyuan Zhang; Kaixuan Dai; Yitian Xie...
 
 Using the global land use quantities for 235 basins predicted by the Global Change Assessment Model (GCAM) as demand data, we employs the Cellular Automaton Model (CA Model) suitable for global-scale land use modeling and coupled with human activities and natural environmental changes in each basin. It iteratively simulates the changes in various land class patches driven by future development probabilities over different periods, thereby generating a high-resolution LULC dataset over a long time series under different SSP-RCP scenarios. 
+
 **Based on this, we plan to use a spatial crop distribution model to further differentiate the distribution of different crops, and to downscale global urban land use using different industrial population as proxy indicators, thus obtaining a LULC dataset with finer land use/cover types and higher spatial resolution.**
-#### Crop
+#### <i>Crop
 Integrating remote sensing and statistical data, we utilize the crop spatial distribution model based on cross information entropy and machine learning algorithms to identify the gridded distribution information of crop-explicit harvested areas at global and national scales.
-#### Soil erosion
+#### <i>Soil erosion
 Relying on big data from remote sensing and the long-term, high-precision LULC and crop harvested area datasets produced by our lab, we estimate the spatiotemporal dynamics of high-precision soil erosion patterns at global/national/sub-national scales during historical periods and under different future climate scenarios based on empirical soil erosion models. Furthermore, we map the soil erosion footprint at various spatial scales by integrating MRIOA.
 
 ### ... and more.
