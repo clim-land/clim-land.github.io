@@ -23,7 +23,7 @@ Here are some themes and techniques that we currently work on:
 ### <i>Climate economics
 
 []({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: right; margin: 0px  10px"}
-Zhixiao Zhou；Xintong Niu...
+Zhixiao Zou；Xintong Niu...
 
 **Our objective is to synergize the acclimate model to elucidate the dynamics of how sudden events impact the economic system, specifically focusing on how production losses ripple through the supply chain network.** We endeavor to uncover the intricate cascading effects that manifest across the supply chains of diverse countries, regions, and sectors. Our analysis aims to evaluate the potential impacts of a range of climate policies, adaptation approaches, and mitigation strategies. Through this, we aspire to determine how various adaptive measures can bolster the resilience of the economic system. This comprehensive analysis will serve as a foundational scientific guide, aiding professionals in making informed decisions for disaster prevention, strategic deployment, and the optimized allocation of resources during the critical phase of post-disaster reconstruction
 
