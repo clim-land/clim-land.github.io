@@ -87,6 +87,14 @@ Research ID: https://orcid.org/0000-0002-0752-0282<!--<br>email: <email@example.
 </div>
 {% endif %}
 
-
-
+# Grad Members
+<div class="col-sm-6 clearfix">
+  <img src="/images/teampic/hongxiao.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Hongxiao Yue</h4>
+  <i>Grad since 2023</i>
+  <i>Institute of Geographic Sciences and Natural Resource Research, CAS<!--<br>email: <email@example.com> --></i>
+  <ul style="overflow: hidden">
+    <!-- 这里可以放置更多的成员详细信息列表 -->
+  </ul>
+</div>
 
