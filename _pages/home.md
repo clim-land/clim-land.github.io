@@ -72,9 +72,9 @@ Our team members have diverse academic backgrounds including agricultural & soil
 
 <div style="text-align: left;"> <!-- 将包裹figure的div设置为文本居中 -->
   <figure class="fourth" style="display: inline-block;"> <!-- 设置figure为行内块以便整体居中 -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BFU1.jpg" style="width: 420px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BFU.png" style="width: 420px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/humboldt2.jpg" style="width: 240px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PIK1.jpg" style="width: 240px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PIK1.jpg" style="width: 420px; margin-bottom: 20px;"> <!-- 移除了display:block和margin:auto -->
   </figure>
 </div>
 
