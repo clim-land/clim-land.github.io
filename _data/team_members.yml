@@ -1,103 +1,104 @@
 
 - name: Yitian Xie
   photo: Yitian.png
-  info: Postgraduates, started July 2023
+  info: Master student, started July 2023
   email: xieyitian@bjfu.edu.cn
   number_educ: 2
-  education1: Graduates,Beijing Forestry University
-  education2: Postgraduates,Beijing Forestry University
+  education1: Graduates, Beijing Forestry University
+  education2: Master student, Beijing Forestry University
 
 - name: Zimeng Ge
   photo: zimeng.jpg
-  info: Postgraduates, started July 2023
+  info: Master student, started July 2023
   email: gezimeng@bjfu.edu.cn
   number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
+  education1: Master student, Beijing Forestry University
 
 - name: Xiao Yang
   photo: Yangxiao.jpg
-  info: Postgraduates, started July 2023
+  info: Master student, started July 2023
   email: yangxiao@bjfu.edu.cn
   number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
+  education1: Master student, Beijing Forestry University
 
 - name: Xintong Niu
   photo: Xintong.jpg
-  info: Postgraduates, started July 2022
+  info: Master student, started July 2022
   email: niuxintong@bjfu.edu.cn
   number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
+  education1: Master student, Beijing Forestry University
 
 - name: Moran Wang
   photo: moran1.jpg
-  info: Postgraduates, started July 2022
+  info: Master student, started July 2022
   E-mail: wangmoran@bjfu.edu.cn
   number_educ: 1  
-  education1: Postgraduates,Beijing Forestry University
+  education1: Master student, Beijing Forestry University
  
 - name: Rongtian Zhang
   photo: rongtian1.jpg
-  info: Postgraduates, started July 2022
+  info: Master student, started July 2022
   E-mail: Zrt19980218@bjfu.edu.cn
   number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
+  education1: Master student, Beijing Forestry University
 
 - name: Jingyu Liu
   photo: jingyu.jpg
-  info: Postgraduates, started July 2021
+  info: Master student, started July 2021
   E-mail: laujingyu@bjfu.edu.cn
   number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
+  education1: Master student, Beijing Forestry University
 
 - name: Yimeng Xu
   photo: yimeng.jpg
-  info: Postgraduates, started July 2021
+  info: Master student, started July 2021
   E-mail: xymxym19990114@bjfu.edu.cn
   number_educ: 1
-  education1: Postgraduates,Beijing Forestry University
+  education1: Master student, Beijing Forestry University
 
 - name: Shan Jiang
   photo: jiangshan.jpg
-  info: Graduates, started July 2021
+  info: Bachelor, started July 2021
   E-mail: JShan@bjfu.edu.cn
   number_educ: 1
-  education1: Graduates,Beijing Forestry University
+  education1: Bachelor, Beijing Forestry University
 
 - name: Man Guo
   photo: guoman.jpg
-  info: Doc(co-supervising), started July 2021
+  info: PhD Student(co-supervising), started July 2021
   E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
-  education1: PhD,Beijing Normal University
+  education1: PhD Student, Beijing Normal University
 
 - name: Yongjuan Xie
   photo: yongjuan.jpg
-  info: Doc(co-supervising), started July 2023
-  E-mail: niuxintong@bjfu.edu.cn
+  info: PhD Student(co-supervising), started July 2023
+  E-mail: xieyongjie@bjfu.edu.cn
   number_educ: 2
-  education1: Postgraduates,Beijing Forestry University
-  education2: PhD,Beijing Normal University
+  education1: Mater Student, Beijing Forestry University
+  education2: PhD Student, Beijing Normal University
 
 - name: Tianyuan Zhang
   photo: rock.jpg
-  info: Doc(co-supervising), started July 2020
+  info: PhD Student(co-supervising), started July 2020
   E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
-  education1: PhD,Beijing Normal University
+  education1: Mater Student, Beijing Forestry University
+  education2: PhD Student, Beijing Normal University
 
 - name: Zhixiao Zou
   photo: rock.jpg
-  info: Doc(co-supervising), started July 2021
+  info: PhD Student(co-supervising), started July 2021
   E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
-  education1: PhD,Beijing Normal University
+  education1: PhD Student, Beijing Normal University
 
 - name: Kaixuan Dai
   photo: rock.jpg
-  info: Doc(co-supervising), started July 2021
+  info: PhD Student(co-supervising), started July 2021
   E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
-  education1: PhD,Beijing Normal University
+  education1: PhD Student, Beijing Normal University
 
 - name: "This could be you !"
   photo: rock.jpg
