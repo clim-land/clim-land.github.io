@@ -80,9 +80,9 @@ permalink: /publications/
 </div>
 
 <div class="article">
-  <p style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH4 emissions: Evidences from income-based accounting and decomposition analysis</p>
-  <p style="font-style: italic; text-align: left;">Cheng, X., Wu, X., Guan, C., Sun, X., Zhang, B.* </p>
-  <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Economics</a></p>
+  <p style="font-weight: bold; text-align: left;">Evaluating temporal-spatial variations of wetland ecosystem service value in China during 1990–2020 from the donor side based on cosmic exergy</p>
+  <p style="font-style: italic; text-align: left;">Xu, Y., Xie, Y., Wu, X.*, Xie, Y., Zhang, T., Zou, Z., Zhang, R., Zhang, Z.*</p>
+  <p><a href="10.1016/j.landusepol.2023.106588" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
 <div class="article">
