@@ -29,51 +29,51 @@
   education1: Postgraduates,Beijing Forestry University
 
 - name: Moran Wang
-  photo: moran.jpg
+  photo: moran1.jpg
   info: Postgraduates, started July 2022
-  email: wangmoran@bjfu.edu.cn
-  number_educ: 1
+  E-mail: wangmoran@bjfu.edu.cn
+  number_educ: 1  
   education1: Postgraduates,Beijing Forestry University
  
 - name: Rongtian Zhang
-  photo: rongtian.jpg
+  photo: rongtian1.jpg
   info: Postgraduates, started July 2022
-  email: Zrt19980218@bjfu.edu.cn
+  E-mail: Zrt19980218@bjfu.edu.cn
   number_educ: 1
   education1: Postgraduates,Beijing Forestry University
 
 - name: Jingyu Liu
   photo: jingyu.jpg
   info: Postgraduates, started July 2021
-  email: laujingyu@bjfu.edu.cn
+  E-mail: laujingyu@bjfu.edu.cn
   number_educ: 1
   education1: Postgraduates,Beijing Forestry University
 
 - name: Yimeng Xu
   photo: yimeng.jpg
   info: Postgraduates, started July 2021
-  email: xymxym19990114@bjfu.edu.cn
+  E-mail: xymxym19990114@bjfu.edu.cn
   number_educ: 1
   education1: Postgraduates,Beijing Forestry University
 
 - name: Shan Jiang
   photo: jiangshan.jpg
   info: Graduates, started July 2021
-  email: JShan@bjfu.edu.cn
+  E-mail: JShan@bjfu.edu.cn
   number_educ: 1
   education1: Graduates,Beijing Forestry University
 
 - name: Man Guo
   photo: guoman.jpg
   info: Doc(co-supervising), started July 2021
-  email: 202131051042@mail.bnu.edu.cn
+  E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD,Beijing Normal University
 
 - name: Yongjuan Xie
   photo: yongjuan.jpg
   info: Doc(co-supervising), started July 2023
-  email: niuxintong@bjfu.edu.cn
+  E-mail: niuxintong@bjfu.edu.cn
   number_educ: 2
   education1: Postgraduates,Beijing Forestry University
   education2: PhD,Beijing Normal University
@@ -81,28 +81,28 @@
 - name: Tianyuan Zhang
   photo: rock.jpg
   info: Doc(co-supervising), started July 2020
-  email: 202131051042@mail.bnu.edu.cn
+  E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD,Beijing Normal University
 
 - name: Zhixiao Zou
   photo: rock.jpg
   info: Doc(co-supervising), started July 2021
-  email: 202131051042@mail.bnu.edu.cn
+  E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD,Beijing Normal University
 
 - name: Kaixuan Dai
   photo: rock.jpg
   info: Doc(co-supervising), started July 2021
-  email: 202131051042@mail.bnu.edu.cn
+  E-mail: 202131051042@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD,Beijing Normal University
 
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  E-mail: clim-land@gmail.com
   number_educ: 0
   education1:
   education2:
