@@ -22,7 +22,9 @@ We are currently combining crop distribution models and remote sensing data to o
 #### Environmental impacts and ecosystem service assessment
 
 **Soil erosion modelling**: Based on remote sensing data and the dynamic spatially-explicit land use datasets developed by our group, we are working on estimating the spatiotemporal dynamics of high-precision soil erosion patterns at global/regional scales. Through this, we seek to support efficient strategies for monitoring and mitigation of large-scale soil erosion.
+
 **Forest carbon stock modelling**: We also conduct modelling and analysis of spatial dynamics of forest carbon stock. Through this, we seek to investigate how forests can be managed and conserved to optimize their function in carbon dioxide sequestration, thereby contributing to climate change mitigation. 
+
 **Thermodynamics-based ecosystem service valuation**: Moreover, we extend the thermodynamic approach to realize a unified valuation of various kinds of ecosystem services and produce the ecosystem service maps at different spatial scales. This enables us to reveal the dynamics of ecosystem service value from a thermodynamic perspective.
 
 ### <i>Socio-economic cost of climate change
