@@ -13,7 +13,6 @@ permalink: /research/
 Here are the research directions that we currently work on:
 
 ### <i>Land use dynamics modelling and ecosystem service assessment
-Tianyuan Zhang; Kaixuan Dai; Yitian Xie...
 
 #### Land use and land cover modelling
 
@@ -22,16 +21,13 @@ We are currently combining crop distribution models and remote sensing data to o
 
 #### Environmental impacts and ecosystem service assessment
 
-**Soil erosion modelling**: Based on remote sensing data and the dynamic spatially-explicit land use datasets developed by our group, we are working on estimating the spatiotemporal dynamics of high-precision soil erosion patterns at global/regional scales. Through this, we seek to support efficient strategies for monitoring and mitigation of large-scale soil erosion, 
+**Soil erosion modelling**: Based on remote sensing data and the dynamic spatially-explicit land use datasets developed by our group, we are working on estimating the spatiotemporal dynamics of high-precision soil erosion patterns at global/regional scales. Through this, we seek to support efficient strategies for monitoring and mitigation of large-scale soil erosion.
 **Forest carbon stock modelling**: We also conduct modelling and analysis of spatial dynamics of forest carbon stock. Through this, we seek to investigate how forests can be managed and conserved to optimize their function in carbon dioxide sequestration, thereby contributing to climate change mitigation. 
 **Thermodynamics-based ecosystem service valuation**: Moreover, we extend the thermodynamic approach to realize a unified valuation of various kinds of ecosystem services and produce the ecosystem service maps at different spatial scales. This enables us to reveal the dynamics of ecosystem service value from a thermodynamic perspective.
 
 ### <i>Socio-economic cost of climate change
 
 #### <i>Climate extreme modelling and loss propagation analysis
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/climate.png){: style="width: 250px; float: right; margin: 0px  10px"}
-Zhixiao Zou；Xintong Niu...
 
 Our objective is to simulate climate extreme events and synergize agent-based models to examine the dynamics of how sudden extreme events impact the economic system, specifically focusing on how production losses ripple through the supply chain network. We aim to uncover the intricate cascading effects that ripple across the supply chains of diverse regions and sectors in the aftermaths of extreme disaster. Our analysis seeks to evaluate the potential impacts of a range of climate policies, adaptation approaches, and mitigation strategies. Through this, we aim to further explore how various adaptive measures can enhance the resilience of the economic system.
 

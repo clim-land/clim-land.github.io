@@ -67,11 +67,6 @@ permalink: /publications/
   <p><a href="10.1016/j.landusepol.2023.106588" style="font-weight: bold; text-decoration: none;">Land Use Policy</a></p>
 </div>
 
-<div class="article">
-  <p style="font-weight: bold; text-align: left;">Resource exergy analysis of the Chinese society in 2017</p>
-  <p style="font-style: italic; text-align: left;">Zheng Meng; Zhuan Yang; Bo Zhang; Xudong Wu</p>
-  <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Environmental Science and Pollution Research</a></p>
-</div>
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Global pastureland use as reflected in inter-regional supply chain</p>
@@ -79,11 +74,6 @@ permalink: /publications/
   <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Journal of Environmental Management</a></p>
 </div>
 
-<div class="article">
-  <p style="font-weight: bold; text-align: left;">Resource exergy analysis of the Chinese society in 2017</p>
-  <p style="font-style: italic; text-align: left;">Zheng Meng; Zhuan Yang; Bo Zhang; Xudong Wu</p>
-  <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Environmental Science and Pollution Research</a></p>
-</div>
 
 ## 2022
 
@@ -156,12 +146,6 @@ permalink: /publications/
 </div>
 
 ## 2020
-
-<div class="article">
-  <p style="font-weight: bold; text-align: left;">Exports-driven primary energy requirements and the structural paths of Chinese regions</p>
-  <p style="font-style: italic; text-align: left;">Ying Liu; Xudong Wu; Xudong Sun; Chenghe Guan; Bo Zhang*; Xiaofang Wu*</p>
-  <p><a href="10.1007/s11707-020-0822-4" style="font-weight: bold; text-decoration: none;">Frontiers of Earth Science</a></p>
-</div>
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Global supply chain of biomass use and the shift of environmental welfare from primary exploiters to final consumers</p>

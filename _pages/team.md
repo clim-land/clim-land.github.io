@@ -10,10 +10,10 @@ permalink: /team/
   <img src="/images/teampic/xudong.png" class="img-responsive" width="25%" style="float: left" />
   <h4>Xudong Wu</h4>
   <i>Associate Professor, Alexander von Humboldt Fellow
-Beijing Forestry University, China
-Potsdam Institute for Climate Impact Research, Germany
-E-mail: wuxudong@bjfu.edu.cn; xdwu@pku.edu.cn
-Research ID: https://orcid.org/0000-0002-0752-0282<!--<br>email: <email@example.com> --></i>
+  Beijing Forestry University, China
+  Potsdam Institute for Climate Impact Research, Germany
+  E-mail: wuxudong@bjfu.edu.cn
+  Research ID: https://orcid.org/0000-0002-0752-0282<!--<br>email: <email@example.com> --></i>
   <ul style="overflow: hidden">
     <!-- 这里可以放置更多的成员详细信息列表 -->
   </ul>
@@ -24,7 +24,7 @@ Research ID: https://orcid.org/0000-0002-0752-0282<!--<br>email: <email@example.
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for pashionate new members to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
