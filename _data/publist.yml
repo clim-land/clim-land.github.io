@@ -6,14 +6,14 @@
     url: https://www.nature.com/articles/s41597-023-02637-7
     display: Scientific Data 10, Article number 748 (2023)
   highlight: 1
-  
-- title: "Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution"
-  image: mapping.png
-  description: This study aims to produce a gridded dataset of global LULC at 1 km × 1 km resolution under typical SSP-RCP scenarios from 2020 to 2100 by combining the Patch-generating Land Use Simulation (PLUS) model and GCAM. 
-  authors: Zhang Tianyuan; Cheng Changxiu*; Wu Xudong*
+
+- title: "Is solar power renewable and carbon-neutral: Evidence from a pilot solar tower plant in China under a systems view"
+  image: is.jpg
+  description: This study seeks to further explore the renewable and carbon-neutral characters of solar power under a systems view by studying a pilot solar tower plant in China.
+  authors: Wu Xudong; Li Chaohui; Shao Ling; Zhang lixiao*; Chen Guoqian*
   link:
-    url: https://www.nature.com/articles/s41597-023-02637-7
-    display: Scientific Data 10, Article number 748 (2023)
+    url: https://www.sciencedirect.com/science/article/pii/S1364032120309394
+    display: Renewable and Sustainable Energy Reviews Volume 138, March 2021, 110655
   highlight: 1
 
 - title: "Is solar power renewable and carbon-neutral: Evidence from a pilot solar tower plant in China under a systems view"
@@ -23,7 +23,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364032120309394
     display: Renewable and Sustainable Energy Reviews Volume 138, March 2021, 110655
-  highlight: 5
+  highlight: 1
 
 - title: "An overview of arable land use for the world economy: From source to sink via the global supply chain"
   image: an.jpg
@@ -32,7 +32,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0264837718303168
     display: Land Use Policy Volume 76, July 2018, Pages 201-214
-  highlight: 4
+  highlight: 1
 
 - title: "Global socio-hydrology: An overview of virtual water use by the world economy from source of exploitation to sink of final consumption"
   image: soc.jpg
@@ -41,6 +41,6 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0022169419303099
     display: Journal of Hydrology Volume 573, June 2019, Pages 794-810
-  highlight: 5
+  highlight: 1
 
   
