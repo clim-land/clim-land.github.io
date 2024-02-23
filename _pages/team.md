@@ -5,7 +5,7 @@ excerpt: "Clim-land: Team members"
 sitemap: false
 permalink: /team/
 ---
-# Group Leaders
+# Group Leader
 <div class="col-sm-6 clearfix">
   <img src="/images/teampic/xudong.png" class="img-responsive" width="25%" style="float: left" />
   <h4>Xudong Wu</h4>
@@ -87,7 +87,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-# Grad Members
+# Graduate Members
 <div class="col-sm-6 clearfix">
   <img src="/images/teampic/hongxiao.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>Hongxiao Yue</h4>
