@@ -9,11 +9,11 @@ permalink: /team/
 <div class="col-sm-8 clearfix">
   <img src="/images/teampic/xudong.png" class="img-responsive" width="40%" style="float: left" />
   <h4>Xudong Wu</h4>
-  <i>Associate Professor, Alexander von Humboldt Fellow 
-  Beijing Forestry University, China
-  Potsdam Institute for Climate Impact Research, Germany
-  E-mail: wuxudong@bjfu.edu.cn
-  Research ID: https://orcid.org/0000-0002-0752-0282<!--<br>email: <email@example.com> --></i>
+  <i>Associate Professor, Alexander von Humboldt Fellow<br>
+  Beijing Forestry University, China<br>
+  Potsdam Institute for Climate Impact Research, Germany<br>
+  E-mail: <a href="wuxudong@bjfu.edu.cn">wuxudong@bjfu.edu.cn<wuxudong@bjfu.edu.cn><br>
+  Research ID: <a href="https://orcid.org/0000-0002-0752-0282">https://orcid.org/0000-0002-0752-0282 </i>
   <ul style="overflow: hidden">
     <!-- 这里可以放置更多的成员详细信息列表 -->
   </ul>

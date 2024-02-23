@@ -14,7 +14,7 @@ We are looking for new team members with passion, determination, and broad visio
 
 We encourage passionate students from different disciplines who share our commitment in shaping a sustainable future. Your interdisciplinary expertise, whether in agriculture, forestry, soil science, ecology, environmental science, mathematics, physics, or econometrics, can contribute significantly to our understanding of climate change impacts. We are committed to providing a collaborative environment where each member’s personality is highly respected and valued.
 
-**If you are interested in joining us, please send an e-mail to Xudong Wu (wuxudong@bjfu.edu.cn) for connection. We are excited to work with you for mutual growth!**
+**If you are interested in joining us, please send an e-mail to Xudong Wu (<a href="wuxudong@bjfu.edu.cn">wuxudong@bjfu.edu.cn) for connection. We are excited to work with you for mutual growth!**
 
 <div style="text-align: center;"> <!-- 将包裹figure的div设置为文本居中 -->
   <figure class="fourth" style="display: inline-block;"> <!-- 设置figure为行内块以便整体居中 -->
