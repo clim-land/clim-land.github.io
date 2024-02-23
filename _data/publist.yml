@@ -7,30 +7,39 @@
     display: Scientific Data 10, Article number 748 (2023)
   highlight: 1
 
-- title: "Mapping the heterogeneity of global methane footprint in China at the subnational level"
-  image: mapping2.jpg
-  description: This study seeks to take a step forward to connect China's provincial-level methane emissions with final consumption that occurs worldwide via both international and interprovincial exchange of commodities from 2007 to 2015.
-  authors: Guo Man; Cheng Changxiu*; Wu Xudong*
+- title: "Impacts of production structure changes on global CH4 emissions: Evidences from income-based accounting and decomposition analysis"
+  image: eco.jpg
+  description: This study use the Ghosh Multi-Regional Input-Output (MRIO) model and Structural Decomposition Analysis (SDA) to explore the temporal changes in global income-based CH4 emissions and decompose the socioeconomic drivers.
+  authors: Xuelei Cheng; Xudong Wu; Chenghe Guan; Xudong Sun; Bo Zhang*
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0301479723012677?via%3Dihub
-    display: Journal of Environmental Management Volume 345, 1 November 2023, 118479
+    url: https://www.sciencedirect.com/science/article/pii/S0921800923002306
+    display: Ecological Economics Volume 213, November 2023, 107967
   highlight: 1
 
-- title: "Evaluating temporal-spatial variations of wetland ecosystem service value in China during 1990–2020 from the donor side based on cosmic exergy"
-  image: evaluating.jpg
-  description: The main objective of this paper is to construct a cosmic-exergy-based accounting framework for wetland ecosystem service valuation and comprehensively evaluate the spatiotemporal characteristics of wetland ecosystem service value in China during 1990–2020 from a donor-side perspective. According to the results, the ecological equality of wetland ecosystems in different regions is demonstrated, and suggestions for protecting and utilizing wetland natural resources are put forward.
-  authors: Xu Yimeng; Xie Yongjuan; Wu Xudong*; Xie Yitian; Zhang Tianyuan; Zou Zhixiao; Zhang Rongtian; Zhang Zhiqiang*
+- title: "Global pastureland use as reflected in inter-regional supply chain"
+  image: jou.jpg
+  description: This study investigates the pastureland use embedded in global supply chains by using multi-regional systems input-output anlysis, tracing embodied pastureland use from source of exploitation to sink of final consumption in the global economy.
+  authors: Chaohui Li; Xudong Wu; Kuang Chen; Guoqian Chen*
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0959652623016438?via=ihub#undfig1
-    display: Journal of Cleaner Production Volume 414, 15 August 2023, 137485
-  highlight: 1
+    url: https://www.sciencedirect.com/science/article/pii/S0301479722015894
+    display: Journal of Environmental Management Volume 322, 15 November 2022, 116016
+  highlight: 4
 
-- title: "Water cost for water purification: Renewability assessment of a typical wastewater treatment plant in China"
-  image: xie.jpg
-  description: This work will explore the water cost for water purification by a case investigation of a typical WWTP, using the tiered hybrid analysis combining process analysis and systems input-output analysis.
-  authors: Yongjuan Xie; Li Zeng; Ping Wang*; Xudong Wu*; Tianjiao Feng
+- title: "Pastureland use of China: Accounting variations from different input-output analyses"
+  image: lup.jpg
+  description: This study is in direct association with a pioneering paper “Embodied pasture land use change in China 2000 - 2015: from the perspective of globalization”.
+  authors: Chaohui Li; Xudong Wu; Guoqian Chen*; Mengyao Han; Kuang Chen; Ciren Yangzong; Dan Lo; Ahmed Alsaedi; Tasawar Hayat
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0959652622010952?via%3Dihub#sec1
-    display: Journal of Cleaner Production Volume 349, 15 May 2022, 131474
+    url: https://www.sciencedirect.com/science/article/pii/S0264837721003203
+    display: Land Use Policy Volume 109, October 2021, 105597
+  highlight: 5
+
+- title: "Global temporal evolution of CH4 emissions via geo-economic integration"
+  image: glo.jpg
+  description: This study aims to investigate global CH4 emissions embodied in international trade via geographic integration from 1990 to 2015 and illustrates the trading flows of embodied CH4 emissions between major regional economies.
+  authors: Xin Wang;  Wenjie Tian; Chenghe Guan; Xudong Wu; Xudong Sun; Bo Zhang*
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0301479721024397
+    display: Journal of Environmental Management Volume 305, 1 March 2022, 114377
   highlight: 1
   
