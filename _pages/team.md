@@ -36,11 +36,21 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
+<head>
+<style>
+  .no-list-style {
+    list-style-type: none; /* 去除列表项前的默认标记 */
+    padding-left: 0; /* 去除默认的左填充，这通常用于对齐列表项 */
+  }
+</style>
+</head>
+
+
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i> 
-  <ul style="overflow: hidden；list-style-type: none; ">
+  <ul class="no-list-style" style="overflow: hidden；">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
