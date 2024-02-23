@@ -6,8 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 # Group Leader
-<div class="col-sm-8 clearfix" style="width: 100%; max-width: 100%;">
-  <img src="/images/teampic/xudong.png" class="img-responsive" width="40%" style="float: left" />
+<div class="col-sm-6 clearfix" style="width: 100%; max-width: 100%;">
+  <img src="/images/teampic/xudong.png" class="img-responsive" width="20%" style="float: left" />
   <h4>Xudong Wu</h4>
   <i style="display: block; width: auto; white-space: nowrap;">Associate Professor, Alexander von Humboldt Fellow <br>
   Beijing Forestry University, China<br>
