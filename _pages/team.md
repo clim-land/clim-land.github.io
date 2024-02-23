@@ -6,18 +6,19 @@ sitemap: false
 permalink: /team/
 ---
 # Group Leader
-<div class="col-sm-8 clearfix">
+<div class="col-sm-8 clearfix" style="width: 100%; max-width: 100%;">
   <img src="/images/teampic/xudong.png" class="img-responsive" width="40%" style="float: left" />
   <h4>Xudong Wu</h4>
-  <i>Associate Professor, Alexander von Humboldt Fellow<br>
+  <i style="display: block; width: auto; white-space: nowrap;">Associate Professor, Alexander von Humboldt Fellow <br>
   Beijing Forestry University, China<br>
   Potsdam Institute for Climate Impact Research, Germany<br>
-  E-mail: <a href="wuxudong@bjfu.edu.cn">wuxudong@bjfu.edu.cn<wuxudong@bjfu.edu.cn><br>
-  Research ID: <a href="https://orcid.org/0000-0002-0752-0282">https://orcid.org/0000-0002-0752-0282 </i>
+  E-mail: <a href="mailto:wuxudong@bjfu.edu.cn">wuxudong@bjfu.edu.cn</a><br>
+  Research ID: <a href="https://orcid.org/0000-0002-0752-0282">https://orcid.org/0000-0002-0752-0282</a></i>
   <ul style="overflow: hidden">
     <!-- 这里可以放置更多的成员详细信息列表 -->
   </ul>
 </div>
+
 
 <!-- Clearfix to ensure that the following content starts on a new line -->
 <div class="clearfix"></div> <!-- This div ends the floating effect -->
