@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We warmly welcome new members to join our research team, which is dedicated to addressing some of the most pressing challenges posed by climate change and land use dynamics.**
+We warmly welcome new members to join our research team, which is dedicated to addressing some of the most pressing challenges posed by climate change and land use dynamics.
 
 We are looking for new team members with passion, determination, and broad vision! Good humor would be highly appreciated but not necessarily. 
 
