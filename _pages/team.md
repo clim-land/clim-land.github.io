@@ -7,9 +7,9 @@ permalink: /team/
 ---
 # Group Leader
 <div class="col-sm-6 clearfix">
-  <img src="/images/teampic/xudong.png" class="img-responsive" width="25%" style="float: left" />
+  <img src="/images/teampic/xudong.png" class="img-responsive" width="50%" style="float: left" />
   <h4>Xudong Wu</h4>
-  <i>Associate Professor, Alexander von Humboldt Fellow
+  <i>Associate Professor, Alexander von Humboldt Fellow 
   Beijing Forestry University, China
   Potsdam Institute for Climate Impact Research, Germany
   E-mail: wuxudong@bjfu.edu.cn
