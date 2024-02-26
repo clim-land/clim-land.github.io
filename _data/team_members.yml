@@ -4,7 +4,7 @@
   info: Master student, started July 2023
   email: xieyitian@bjfu.edu.cn
   number_educ: 2
-  education1: Graduates, Beijing Forestry University
+  education1: Bachelor, Beijing Forestry University
   education2: Master student, Beijing Forestry University
 
 - name: Zimeng Ge
@@ -59,21 +59,21 @@
 
 - name: Shan Jiang
   photo: jiangshan.jpg
-  info: Bachelor, started July 2021
+  info: Bachelor Student, started July 2021
   email: JShan@bjfu.edu.cn
   number_educ: 1
   education1: Bachelor, Beijing Forestry University
 
 - name: Man Guo
   photo: guoman.jpg
-  info: PhD Student(co-supervising), started July 2021
+  info: PhD Student (co-supervising), started July 2021
   email: 202131051042@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD Student, Beijing Normal University
 
 - name: Yongjuan Xie
   photo: yongjuan.jpg
-  info: PhD Student(co-supervising), started July 2023
+  info: PhD Student (co-supervising), started July 2023
   email: xieyongjuan@bjfu.edu.cn
   number_educ: 2
   education1: Mater Student, Beijing Forestry University
@@ -81,7 +81,7 @@
 
 - name: Tianyuan Zhang
   photo: rock.jpg
-  info: PhD Student(co-supervising), started July 2021
+  info: PhD Student (co-supervising), started July 2021
   email: 202131051042@mail.bnu.edu.cn
   number_educ: 1
   education1: Mater Student, Beijing Forestry University
@@ -89,14 +89,14 @@
 
 - name: Zhixiao Zou
   photo: rock.jpg
-  info: PhD Student(co-supervising), started July 2020
+  info: PhD Student (co-supervising), started July 2020
   email: 202031051040@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD Student, Beijing Normal University
 
 - name: Kaixuan Dai
   photo: rock.jpg
-  info: PhD Student(co-supervising), started July 2021
+  info: PhD Student (co-supervising), started July 2021
   email: daikx@mail.bnu.edu.cn
   number_educ: 1
   education1: PhD Student, Beijing Normal University
