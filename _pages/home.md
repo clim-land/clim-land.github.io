@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**This is the Land Use and Climate Change Impact Modelling Group!** Our group is based at Beijing Forestry University and collaborate closely with international institutions such as Potsdam Institute for Climate Impact Modelling and Alexander von Humboldt Foundation. We dedicate ourselves to the study of land use modelling & ecosystem service assessment, climate change econometrics, and climate extreme modelling & impact analysis. Please contact us via wuxudong@bjfu.edu.cn if you are interested in joining our group.
+**This is the Land Use and Climate Change Impact Modelling Group!** Our group is based at Beijing Forestry University and collaborates closely with international institutions such as Potsdam Institute for Climate Impact Modelling and Alexander von Humboldt Foundation. We dedicate ourselves to the study of land use modelling & ecosystem service assessment, climate change econometrics, and climate extreme modelling & impact analysis. Please contact us via <a href="mailto:wuxudong@bjfu.edu.cn">wuxudong@bjfu.edu.cn if you are interested in joining our group.
 
 <head>
     <meta charset="UTF-8">
@@ -62,11 +62,11 @@ permalink: /
   </a>
 </div>
 
-We are a young and enthusiastic research group affiliated with Beijing Forestry University and Potsdam Institute for Climate Impact Modelling. Our group’s research interests lie in cross-disciplinary studies towards climate impact modelling and climate change adaptation. Our main research directions include global/local-scale land use modelling and environmental impact analysis, GIS-based soil erosion modelling and forest carbon sink, big-data-based climate econometrics, climate thermodynamics, extreme disaster modelling and loss analysis. To this end, we combine interdisciplinary approaches including remote sensing tools, machine learning methods, thermodynamics, econometrics and integrated assessment models to examine the biophysical and socio-economic cost of climate change and identify adaptation pathways(see [Research](research)). 
+We are a young and enthusiastic research group affiliated with Beijing Forestry University and Potsdam Institute for Climate Impact Modelling. Our group’s research interests lie in cross-disciplinary studies towards climate impact modelling and climate change adaptation. Our main research directions include global/local-scale land use modelling and environmental impact analysis, GIS-based soil erosion modelling and forest carbon sink, big-data-based climate econometrics, climate thermodynamics, extreme disaster modelling and loss analysis. To this end, we combine interdisciplinary approaches including remote sensing tools, machine learning methods, thermodynamics, econometrics and integrated assessment models to examine the biophysical and socio-economic cost of climate change and identify adaptation pathways (see [Research](research)). 
 
 Our team members have diverse academic backgrounds including agricultural & soil science, hydrology, environmental science, thermodynamics, geography, statistics and economics. 
 
- **We are looking for passionate new students from different disciplines to join our team！** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for passionate new students from different disciplines to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
