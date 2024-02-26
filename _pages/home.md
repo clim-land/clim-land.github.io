@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**This is the Land Use and Climate Change Impact Modelling Group!** Our group is based at Beijing Forestry University and collaborates closely with international institutions such as Potsdam Institute for Climate Impact Modelling and Alexander von Humboldt Foundation. We dedicate ourselves to the study of land use modelling & ecosystem service assessment, climate change econometrics, and climate extreme modelling & impact analysis. Please contact us via <a href="mailto:wuxudong@bjfu.edu.cn">wuxudong@bjfu.edu.cn if you are interested in joining our group.
+**This is the Land Use and Climate Change Impact Modelling Group!** Our group is based at Beijing Forestry University and collaborates closely with international institutions such as Potsdam Institute for Climate Impact Modelling and Alexander von Humboldt Foundation. We dedicate ourselves to the study of land use modelling & ecosystem service assessment, climate change econometrics, and climate extreme modelling & impact analysis. Please contact us via <a href="mailto:wuxudong@bjfu.edu.cn">wuxudong@bjfu.edu.cn</a> if you are interested in joining our group.
 
 <head>
     <meta charset="UTF-8">
