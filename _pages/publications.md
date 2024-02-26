@@ -53,13 +53,16 @@ permalink: /publications/
 
 ## Full List of publications
 
-## 2023
+## 2024
 
 <div class="article">
-  <p style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH4 emissions: Evidences from income-based accounting and decomposition analysis</p>
-  <p style="font-style: italic; text-align: left;">Xuelei Cheng; Xudong Wu; Chenghe Guan; Xudong Sun; Bo Zhang</p>
-  <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Economics</a></p>
+  <p style="font-weight: bold; text-align: left;">Mapping spatially-explicit cropland-related soil erosion in China from 1980 to 2018 at a 30 m resolution</p>
+  <p style="font-style: italic; text-align: left;">Xie, Y., Zhang, T., Zhang, Z., Wu, X.* (Contributed equally as the 1<sup>st</sup> author)</p>
+  <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Submitting</a></p>
 </div>
+
+## 2023
+
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution</p>
@@ -74,20 +77,20 @@ permalink: /publications/
 </div>
 
 <div class="article">
-  <p style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH4 emissions: Evidences from income-based accounting and decomposition analysis</p>
+  <p style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH<sub>4</sub> emissions: Evidences from income-based accounting and decomposition analysis</p>
   <p style="font-style: italic; text-align: left;">Cheng, X., Wu, X., Guan, C., Sun, X., Zhang, B.* </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Economics</a></p>
 </div>
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Evaluating temporal-spatial variations of wetland ecosystem service value in China during 1990–2020 from the donor side based on cosmic exergy</p>
-  <p style="font-style: italic; text-align: left;">Xu, Y., Xie, Y., Wu, X.*, Xie, Y., Zhang, T., Zou, Z., Zhang, R., Zhang, Z.*</p>
+  <p style="font-style: italic; text-align: left;">Xu, Y., Xie, Y., Wu, X.*, Xie, Y., Zhang, T., Zou, Z., Zhang, R., Zhang, Z.* (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1016/j.landusepol.2023.106588" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Mutual complementarity of arable land use in the Sino-Africa trade: Evidence from the global supply chain</p>
-  <p style="font-style: italic; text-align: left;">Ji, X.*, Su, P., Liu, Y., Wu, G., Wu, X.</p>
+  <p style="font-style: italic; text-align: left;">Ji, X.*, Su, P., Liu, Y., Wu, G., Wu, X. </p>
   <p><a href="10.1016/j.landusepol.2023.106588" style="font-weight: bold; text-decoration: none;">Land Use Policy</a></p>
 </div>
 
@@ -97,19 +100,19 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Global pastureland use as reflected in inter-regional supply chain</p>
-  <p style="font-style: italic; text-align: left;">Li, C., Wu, X., Chen, K., Chen, G.* *</p>
+  <p style="font-style: italic; text-align: left;">Li, C., Wu, X., Chen, K., Chen, G.*  (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Journal of Environmental Management</a></p>
 </div>
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Water cost for water purification: Renewability assessment of a typical wastewater treatment plant in China</p>
-  <p style="font-style: italic; text-align: left;">Xie, Y., Zeng, L., Wang, P.*, Wu, X.*, Feng, T.</p>
+  <p style="font-style: italic; text-align: left;">Xie, Y., Zeng, L., Wang, P.*, Wu, X.*, Feng, T. (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
 <div class="article">
-  <p style="font-weight: bold; text-align: left;">Global temporal evolution of CH4 emissions via geo-economic integration</p>
-  <p style="font-style: italic; text-align: left;">Wang, X., Tian, W., Guan, C., Wu, X.*, Sun, X., Zhang, B.*</p>
+  <p style="font-weight: bold; text-align: left;">Global temporal evolution of CH<sub>4</sub> emissions via geo-economic integration</p>
+  <p style="font-style: italic; text-align: left;">Wang, X., Tian, W., Guan, C., Wu, X.*, Sun, X., Zhang, B.* (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Environmental Management</a></p>
 </div>
 
@@ -119,11 +122,6 @@ permalink: /publications/
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
-<div class="article">
-  <p style="font-weight: bold; text-align: left;"> Is solar power renewable and carbon-neutral: Evidence from a pilot solar tower plant in China under a systems view</p>
-  <p style="font-style: italic; text-align: left;">Wu, X., Li, C., Shao, L., Meng, J., Zhang, L.*, Chen, G.*</p>
-  <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Renewable and Sustainable Energy Reviews</a></p>
-</div>
 
 ## 2021
 
@@ -141,7 +139,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Pastureland use of China: Accounting variations from different input-output analyses</p>
-  <p style="font-style: italic; text-align: left;">Li, C., Wu, X., Chen, G.*, Han, M., Chen, K., Yangzong, C., Lo, D., Alsaedi, A., Hayat, T.</p>
+  <p style="font-style: italic; text-align: left;">Li, C., Wu, X., Chen, G.*, Han, M., Chen, K., Yangzong, C., Lo, D., Alsaedi, A., Hayat, T. (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1016/j.landusepol.2021.105597" style="font-weight: bold; text-decoration: none;">Land Use Policy</a></p>
 </div>
 
@@ -159,7 +157,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Can constructed wetlands be more land efficient than centralized wastewater treatment systems? A case study based on direct and indirect land use</p>
-  <p style="font-style: italic; text-align: left;">Fan, Y., Wu, X., Shao, L., Han, M., Chen, B., Meng, J., Wang, P.*, Chen, G.*</p>
+  <p style="font-style: italic; text-align: left;">Fan, Y., Wu, X., Shao, L., Han, M., Chen, B., Meng, J., Wang, P.*, Chen, G.* (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Science of The Total Environment</a></p>
 </div>
 
@@ -179,7 +177,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">A unified ecological assessment of a solar concentrating plant based on an integrated approach joining cosmic exergy analysis with ecological indicators</p>
-  <p style="font-style: italic; text-align: left;">Fan, Y., Wu, X., Wu, X.F., Li, C., Yang, Q., Hayat, T., Alsaedi, A., Wang, P.*, Chen, G.*</p>
+  <p style="font-style: italic; text-align: left;">Fan, Y., Wu, X., Wu, X.F., Li, C., Yang, Q., Hayat, T., Alsaedi, A., Wang, P.*, Chen, G.* (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1016/j.rser.2020.109934" style="font-weight: bold; text-decoration: none;">Renewable and Sustainable Energy Reviews</a></p>
 </div>
 
@@ -204,7 +202,7 @@ permalink: /publications/
 </div>
 
 <div class="article">
-  <p style="font-weight: bold; text-align: left;">Quantifying global CH4 and N2O footprints</p>
+  <p style="font-weight: bold; text-align: left;">Quantifying global CH<sub>4</sub> and N<sub>2</sub>O footprints</p>
   <p style="font-style: italic; text-align: left;">Tian, W., Wu, X., Zhao, X., Ma, R., Zhang, B.*</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Environmental Management</a></p>
 </div>
@@ -255,7 +253,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Ultra-high voltage network induced energy cost and carbon emissions</p>
-  <p style="font-style: italic; text-align: left;">Wei, W., Wu, X., Li, J.*, Jiang, X., Zhang, P., Zhou, S., Zhu, H., Liu, H., Chen, H., Guo, J., Chen, G.* </p>
+  <p style="font-style: italic; text-align: left;">Wei, W., Wu, X., Li, J.*, Jiang, X., Zhang, P., Zhou, S., Zhu, H., Liu, H., Chen, H., Guo, J., Chen, G.*  (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
@@ -275,7 +273,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">A three-scale input-output analysis of water use in a regional economy: Hebei province in China</p>
-  <p style="font-style: italic; text-align: left;">Liu, S., Wu, X., Han, M.*, Zhang, J., Chen, B., Wu, X.F., Wei, W., Li, Z </p>
+  <p style="font-style: italic; text-align: left;">Liu, S., Wu, X., Han, M.*, Zhang, J., Chen, B., Wu, X.F., Wei, W., Li, Z  (Contributed equally as the 1<sup>st</sup> author)</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 

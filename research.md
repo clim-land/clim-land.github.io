@@ -16,7 +16,8 @@ Here are the research directions that we currently work on:
 
 #### Land use and land cover modelling
 
-We have conducted land use dynamics simulation and obtained global land use and land cover maps at a 1km resolution for historical periods and various future warming scenarios (Nature Scientific Data,2023, 10: 748.). By combining the integrated assessment model with cellular automata tools, we obtained land use demands for global 235 river-basin regions and downscaled the land use to a 1km resolution to capture the spatial heterogeneity under the combined effects of anthropogenic activities and climate change.
+We have conducted land use dynamics simulation and obtained global land use and land cover maps at a 1 km resolution for historical periods and various future warming scenarios (Nature Scientific Data, 2023, 10: 748.). By combining the integrated assessment model with cellular automata tools, we obtained land use demands for global 235 river-basin regions and downscaled the land use to a 1km resolution to capture the spatial heterogeneity under the combined effects of anthropogenic activities and climate change.
+
 We are currently combining crop distribution models and remote sensing data to obtain spatially-explicit cropland maps. Our next step is to combine machine learning algorithms and complexity models to realize the optimized simulation of crop pattern evolution.
 
 #### Environmental impacts and ecosystem service assessment
@@ -39,6 +40,6 @@ We are currently combining big data with econometric tools to examine the socio-
 
 #### Environmental footprint and multi-region input-output analysis
 
-We examine how the environmental impacts are related with human’s production and consumption patterns by using multi-region input-output analysis. We combine spatially-explicit environmental impacts developed by our group and analyze how these impacts are linked with the global supply network and how the changing consumption patterns and evolving trade network may influence on the environmental forcing.
+We examine how the environmental impacts are related to human’s production and consumption patterns by using multi-region input-output analysis. We combine spatially-explicit environmental impacts developed by our group and analyze how these impacts are linked with the global supply network and how the changing consumption patterns and evolving trade network may influence on the environmental forcing.
 
 ### ... and more.

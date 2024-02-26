@@ -10,7 +10,7 @@ permalink: /vacancies
 
 We warmly welcome new members to join our research team, which is dedicated to addressing some of the most pressing challenges posed by climate change and land use dynamics.
 
-We are looking for new team members with passion, determination, and broad vision! Good humor would be highly appreciated but not necessarily require. 
+We are looking for new team members with passion, determination, and broad vision! Good humor would be highly appreciated but not necessarily required. 
 
 We encourage passionate students from different disciplines who share our commitment in shaping a sustainable future. Your interdisciplinary expertise, whether in agriculture, forestry, soil science, ecology, environmental science, mathematics, physics, or econometrics, can contribute significantly to our understanding of climate change impacts. We are committed to providing a collaborative environment where each member’s personality is highly respected and valued.
 
