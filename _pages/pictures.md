@@ -47,7 +47,7 @@ permalink: /pictures/
 <p> &nbsp; </p>
 
 
-## International cooperation
+## International network
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange1.jpg" style="width: 45%; display: inline-block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/interchange2.jpg" style="width: 45%; display: inline-block;">
