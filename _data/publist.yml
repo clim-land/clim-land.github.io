@@ -1,7 +1,7 @@
 - title: "Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution"
   image: mapping.png
   description: This study aims to produce a gridded dataset of global LULC at 1 km × 1 km resolution under typical SSP-RCP scenarios from 2020 to 2100 by combining the Patch-generating Land Use Simulation (PLUS) model and GCAM. 
-  authors: Zhang, T., Cheng, C.*, Wu, X.*
+  authors: Zhang, T., Cheng, C.*, Wu, X.* 
   link:
     url: https://www.nature.com/articles/s41597-023-02637-7
     display: Scientific Data, 10, Article number 748 (2023)
@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "An overview of arable land use for the world economy: From source to sink via the global supply chain"
-  image: an.jpg
+  image: biao.jpg
   description: This study analyzes the interregional transfer of arable land use from source of exploitation to sink of final consumption for the world economy by using typical statistics. 
   authors: Wu, X., Guo, J., Han, M., Chen, G.* 
   link:
@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "Global socio-hydrology: An overview of virtual water use by the world economy from source of exploitation to sink of final consumption"
-  image: soc.jpg
+  image: mo.jpg
   description: This study seeks to reflect a key aspect of global socio-hydrology by exploring the circulation of virtual water within the global economic network from source of exploitation to sink of final consumption.
   authors:  Wu, X., Guo, J., Li, C., Shao, L., Han, M., Chen, G.* 
   link:
