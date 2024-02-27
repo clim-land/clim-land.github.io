@@ -51,7 +51,8 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications  (<sup>#</sup> indicates the first author, * indicates the corresponding author.)
+## Full List of publications 
+ (<sup>#</sup> indicates the first author, * indicates the corresponding author.)
 
 ## 2024
 
