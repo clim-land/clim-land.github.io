@@ -102,8 +102,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="/images/teampic/hongxiao.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>Hongxiao Yue</h4>
-  <i>Grad since 2023</i><br>
-  <i>Further PhD study in Institute of Geographic Sciences and Natural Resource Research, Chinese Academy of Science<!--<br>email: <email@example.com> --></i><br>
+  <i>Graduated since 2023</i><br>
+  <i>PhD student in Institute of Geographic Sciences and Natural Resource Research, Chinese Academy of Science<!--<br>email: <email@example.com> --></i><br>
   <ul style="overflow: hidden">
     <!-- 这里可以放置更多的成员详细信息列表 -->
   </ul>

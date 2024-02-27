@@ -62,7 +62,7 @@
   info: Bachelor Student, started July 2021
   email: JShan@bjfu.edu.cn
   number_educ: 1
-  education1: Bachelor, Beijing Forestry University
+  education1: Bachelor Student, Beijing Forestry University
 
 - name: Man Guo
   photo: guoman.jpg
@@ -76,15 +76,15 @@
   info: PhD Student (co-supervising), started July 2023
   email: xieyongjuan@bjfu.edu.cn
   number_educ: 2
-  education1: Mater Student, Beijing Forestry University
+  education1: Mater, Beijing Forestry University
   education2: PhD Student, Beijing Normal University
 
 - name: Tianyuan Zhang
   photo: rock.jpg
   info: PhD Student (co-supervising), started July 2021
   email: 202131051042@mail.bnu.edu.cn
-  number_educ: 1
-  education1: Mater Student, Beijing Forestry University
+  number_educ: 2
+  education1: Mater, Beijing Forestry University
   education2: PhD Student, Beijing Normal University
 
 - name: Zhixiao Zou
