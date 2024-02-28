@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Research highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). **
+**At the end of this page, you can find the [list of publications](#full-list-of-publications). **
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,8 +51,8 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications 
- (<sup>#</sup> indicates equal contribution as the first author, <sup>✽</sup> indicates the corresponding author.)
+## List of publications 
+ (<sup>#</sup> indicates equal contribution, and <sup>✽</sup> indicates the corresponding author.)
 
 ## 2024
 
@@ -303,7 +303,7 @@ permalink: /publications/
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Wetlands</a></p>
 </div>
 
-## 2015
+## 2015 and Before
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Renewability and sustainability of biogas system: Cosmic exergy based assessment for a case in China</p>
@@ -338,5 +338,17 @@ permalink: /publications/
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Sustainability of a typical biogas system in China: Emergy-based ecological footprint assessment</p>
   <p style="font-style: italic; text-align: left;">Wu, X.F., Yang, Q.<sup>✽</sup>, Xia, X., Wu, T., <strong>Wu, X.</strong>, Shao, L., Hayat, T., Alsaedi, A., Chen, G.<sup>✽</sup> </p>
+  <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Informatics</a></p>
+</div>
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Ecological accounting for an integrated “pig–biogas–fish” system based on emergetic indicators</p>
+  <p style="font-style: italic; text-align: left;">Wu, X.F.<sup>#</sup>, <strong>Wu, X.</strong><sup>#</sup>, Li, J.<sup>#</sup>, Xia, X., Mi, T., Yang, Q., Chen, G.<sup>✽</sup>, Chen, B., Hayat, T., Alsaedi, A. </p>
+  <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Informatics</a></p>
+</div>
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Bibliometric indicators for sustainable hydropower development</p>
+  <p style="font-style: italic; text-align: left;">Han, M.<sup>#</sup>, Sui, X.<sup>#</sup>, Huang, Z.<sup>✽</sup>, <strong>Wu, X.</strong>, Xia, X., Hayat, T., Alsaedi, A. </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Informatics</a></p>
 </div>
