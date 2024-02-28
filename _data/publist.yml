@@ -1,7 +1,7 @@
 - title: "Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution"
   image: mapping.png
   description: This study aims to produce a gridded dataset of global LULC at 1 km × 1 km resolution under typical SSP-RCP scenarios from 2020 to 2100 by combining GCAM and the Patch-generating Land Use Simulation (PLUS) model. 
-  authors: Zhang, T., Cheng, C.*, Wu, X.* 
+  authors: Zhang, T., Cheng, C.*, Wu, X.<sup>✽</sup>
   link:
     url: https://www.nature.com/articles/s41597-023-02637-7
     display: Scientific Data, 10, Article number 748 (2023)
