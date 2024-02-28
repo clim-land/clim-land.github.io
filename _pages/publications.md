@@ -66,7 +66,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution</p>
-  <p style="font-style: italic; text-align: left;">Zhang, T., Cheng, C.*✽, Wu, X.*✽ </p>
+  <p style="font-style: italic; text-align: left;">Zhang, T., Cheng, C.*<sup>✽</sup>, Wu, X.*<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Scientific Data</a></p>
 </div>
 
