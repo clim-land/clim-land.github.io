@@ -273,7 +273,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">A three-scale input-output analysis of water use in a regional economy: Hebei province in China</p>
-  <p style="font-style: italic; text-align: left;">Liu, S., <strong>Wu, X.</strong>, Han, M.<sup>✽</sup>, Zhang, J., Chen, B., Wu, X.F., Wei, W., Li, Z  </p>
+  <p style="font-style: italic; text-align: left;">Liu, S., <strong>Wu, X.</strong>, Han, M.<sup>✽</sup>, Zhang, J., Chen, B., Wu, X.F., Wei, W., Li, Z<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
