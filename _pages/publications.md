@@ -66,7 +66,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution</p>
-  <p style="font-style: italic; text-align: left;">Zhang, T., Cheng, C.*<sup>✽</sup>, Wu, X.*<sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;">Zhang, T., Cheng, C.*<sup>✽</sup>, <strong>Wu, X.</strong>*<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Scientific Data</a></p>
 </div>
 
@@ -133,7 +133,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Energy use flows in the supply chains of the world economy: A full account of both primary and intermediate inputs</p>
-  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>✽</sup>, Guo, J., Chen, G.<sup>✽</sup>, Wu, X.F., Meng, J., Alhodaly, M., Wakeel, M. </p>
+  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#</sup>，<sup>✽</sup>, Guo, J.<sup>#</sup>, Chen, G.<sup>✽</sup>, Wu, X.F., Meng, J., Alhodaly, M., Wakeel, M. </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
@@ -151,7 +151,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Extended carbon footprint and emission transfer of world regions: With both primary and intermediate inputs into account</p>
-  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>✽</sup>, Li, C., Guo, J., Wu, X.F., Meng, J., Chen, G.<sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#</sup>，<sup>✽</sup>, Li, C.<sup>#</sup>, Guo, J., Wu, X.F., Meng, J., Chen, G.<sup>✽</sup> </p>
   <p><a href="10.1016/j.scitotenv.2021.145578" style="font-weight: bold; text-decoration: none;">Science of The Total Environment</a></p>
 </div>
 
@@ -209,7 +209,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Global overview for energy use of the world economy: Household-consumption-based accounting based on the world input-output database (WIOD)</p>
-  <p style="font-style: italic; text-align: left;">Chen, G.<sup>✽</sup><sup>#</sup>, <strong>Wu, X.</strong><sup>✽</sup><sup>#</sup>, Guo, J., Meng, J., Li, C</p>
+  <p style="font-style: italic; text-align: left;">Chen, G.<sup>#</sup>，<sup>✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>, Guo, J., Meng, J., Li, C</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Energy Economics</a></p>
 </div>
 
@@ -235,7 +235,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">An overview of arable land use for the world economy: From source to sink via the global supply chain</p>
-  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong>, Guo, J., Han, M., Chen, G.<sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#</sup>, Guo, J.<sup>#</sup>, Han, M., Chen, G.<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Land Use Policy</a></p>
 </div>
 
@@ -281,13 +281,13 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Progress and prospect of CCS in China: Using learning curve to assess the cost-viability of a 2×600MW retrofitted oxyfuel power plant as a case study</p>
-  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong>, Yang, Q., Chen, G.<sup>✽</sup>, Hayat, T., Alsaedi, A</p>
+  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#</sup>, Yang, Q.<sup>#</sup>, Chen, G.<sup>✽</sup>, Hayat, T., Alsaedi, A</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Renewable and Sustainable Energy Reviews</a></p>
 </div>
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Embodied energy analysis for coal-based power generation system-highlighting the role of indirect energy cost</p>
-  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong>, Xia, X., Chen, G.<sup>✽</sup>, Wu, X.F., Chen, B</p>
+  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#</sup>, Xia, X.<sup>#</sup>, Chen, G.<sup>✽</sup>, Wu, X.F., Chen, B</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Applied Energy</a></p>
 </div>
 
@@ -299,7 +299,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Critical Length of Contaminant Cloud in a Three-Layer Wetland: Multi-scale Analysis for Environmental Dispersivity</p>
-  <p style="font-style: italic; text-align: left;">Li, Z.*, Wang, P.<sup>✽</sup>, Sun, T., An, Y., <strong>Wu, X.</strong></p>
+  <p style="font-style: italic; text-align: left;">Li, Z.<sup>✽</sup>, Wang, P.<sup>✽</sup>, Sun, T., An, Y., <strong>Wu, X.</strong></p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Wetlands</a></p>
 </div>
 
@@ -319,7 +319,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Analysis of rural household energy consumption and renewable energy systems in Zhangziying town of Beijing</p>
-  <p style="font-style: italic; text-align: left;">Li, X.<sup>#</sup>, Lin, C.<sup>✽</sup><sup>#</sup>, Wang, Y., Zhao, L., Duan, N., <strong>Wu, X.</strong></p>
+  <p style="font-style: italic; text-align: left;">Li, X.<sup>#</sup>, Lin, C.<sup>#</sup>，<sup>✽</sup>, Wang, Y., Zhao, L., Duan, N., <strong>Wu, X.</strong></p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Modelling</a></p>
 </div>
 

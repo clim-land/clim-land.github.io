@@ -1,7 +1,7 @@
 - title: "Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution"
   image: mapping.png
   description: This study aims to produce a gridded dataset of global LULC at 1 km × 1 km resolution under typical SSP-RCP scenarios from 2020 to 2100 by combining GCAM and the Patch-generating Land Use Simulation (PLUS) model. 
-  authors: Zhang, T., Cheng, C.<sup>✽</sup>, Wu, X.<sup>✽</sup>
+  authors: Zhang, T., Cheng, C.<sup>✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>
   link:
     url: https://www.nature.com/articles/s41597-023-02637-7
     display: Scientific Data, 10, Article number 748 (2023)
@@ -10,7 +10,7 @@
 - title: "Is solar power renewable and carbon-neutral: Evidence from a pilot solar tower plant in China under a systems view"
   image: is.jpg
   description: This study seeks to further explore the renewable and carbon-neutral characters of solar power under a systems view by studying a pilot solar tower plant in China.
-  authors: Wu, X., Li, C., Shao, L., Meng, J., Zhang, L.<sup>✽</sup>, Chen, G.<sup>✽</sup> 
+  authors: <strong>Wu, X.</strong>, Li, C., Shao, L., Meng, J., Zhang, L.<sup>✽</sup>, Chen, G.<sup>✽</sup> 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364032120309394
     display: Renewable and Sustainable Energy Reviews, Volume 138, March 2021, 110655
@@ -19,7 +19,7 @@
 - title: "An overview of arable land use for the world economy: From source to sink via the global supply chain"
   image: an.jpg
   description: This study develops a new embodiment accounting model by including the indirect feedbacks associated with both intermediate and primary inputs, and explores global arable land use in a source-to-sink manner. 
-  authors: Wu, X., Guo, J., Han, M., Chen, G.<sup>✽</sup> 
+  authors: <strong>Wu, X.</strong>, Guo, J., Han, M., Chen, G.<sup>✽</sup> 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0264837718303168
     display: Land Use Policy, Volume 76, July 2018, Pages 201-214
@@ -28,7 +28,7 @@
 - title: "Global socio-hydrology: An overview of virtual water use by the world economy from source of exploitation to sink of final consumption"
   image: mo.png
   description: This study seeks to reflect a key aspect of global socio-hydrology by exploring the circulation of virtual water within the global economic network from source of exploitation to sink of final consumption.
-  authors:  Wu, X., Guo, J., Li, C., Shao, L., Han, M., Chen, G.<sup>✽</sup> 
+  authors:  <strong>Wu, X.</strong>, Guo, J., Li, C., Shao, L., Han, M., Chen, G.<sup>✽</sup> 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0022169419303099
     display: Journal of Hydrology, Volume 573, June 2019, Pages 794-810
