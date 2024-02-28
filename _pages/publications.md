@@ -58,7 +58,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Mapping spatially-explicit cropland-related soil erosion in China from 1980 to 2018 at a 30 m resolution</p>
-  <p style="font-style: italic; text-align: left;">Xie, Y.<sup>#</sup>, Zhang, T.<sup>#</sup>, Zhang, Z., <strong>Wu, X.<strong><sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;">Xie, Y.<sup>#</sup>, Zhang, T.<sup>#</sup>, Zhang, Z., <strong>Wu, X.<b> <sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Submitted</a></p>
 </div>
 
