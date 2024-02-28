@@ -100,7 +100,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Global pastureland use as reflected in inter-regional supply chain</p>
-  <p style="font-style: italic; text-align: left;">Li, C.<sup>#</sup>,<strong>Wu, X.</strong><sup>#</sup>, Chen, K., Chen, G.<sup>✽</sup>  </p>
+  <p style="font-style: italic; text-align: left;">Li, C.<sup>#</sup>, <strong>Wu, X.</strong><sup>#</sup>, Chen, K., Chen, G.<sup>✽</sup>  </p>
   <p><a href="10.1007/s11356-023-25278-0" style="font-weight: bold; text-decoration: none;">Journal of Environmental Management</a></p>
 </div>
 
