@@ -58,7 +58,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Mapping spatially-explicit cropland-related soil erosion in China from 1980 to 2018 at a 30 m resolution</p>
-  <p style="font-style: italic; text-align: left;">Xie, Y.<sup>#</sup>, Zhang, T.<sup>#</sup>, Zhang, Z., <strong>Wu, X.<b> <sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;">Xie, Y.<sup>#</sup>, Zhang, T.<sup>#</sup>, Zhang, Z., <strong>Wu, X.</a> <sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Submitted</a></p>
 </div>
 
@@ -78,7 +78,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Impacts of production structure changes on global CH<sub>4</sub> emissions: Evidences from income-based accounting and decomposition analysis</p>
-  <p style="font-style: italic; text-align: left;">Cheng, X.<sup>#</sup>, Wu, X.<sup>#</sup>, Guan, C., Sun, X., Zhang, B.<sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;">Cheng, X.<sup>#</sup>, <strong>Wu, X.</a><sup>#</sup>, Guan, C., Sun, X., Zhang, B.<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Economics</a></p>
 </div>
 
