@@ -118,7 +118,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">An improved extended exergy accounting method for assessing the sustainability of the Chinese society</p>
-  <p style="font-style: italic; text-align: left;">Meng, Z., Jin, P., <strong>Wu, X.</strong>, Zhang, B.<sup>✽</sup>, Guo JL </p>
+  <p style="font-style: italic; text-align: left;">Meng, Z., Jin, P., <strong>Wu, X.</strong>, Zhang, B.<sup>✽</sup>, Guo J </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
@@ -133,7 +133,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Energy use flows in the supply chains of the world economy: A full account of both primary and intermediate inputs</p>
-  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#，✽</sup>, Guo, J.<sup>#</sup>, Chen, G.<sup>✽</sup>, Wu, X.F., Meng, J., Alhodaly, M., Wakeel, M. </p>
+  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#,✽</sup>, Guo, J.<sup>#</sup>, Chen, G.<sup>✽</sup>, Wu, X.F., Meng, J., Alhodaly, M., Wakeel, M. </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
@@ -151,7 +151,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Extended carbon footprint and emission transfer of world regions: With both primary and intermediate inputs into account</p>
-  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#，✽</sup>, Li, C.<sup>#</sup>, Guo, J., Wu, X.F., Meng, J., Chen, G.<sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;"><strong>Wu, X.</strong><sup>#,✽</sup>, Li, C.<sup>#</sup>, Guo, J., Wu, X.F., Meng, J., Chen, G.<sup>✽</sup> </p>
   <p><a href="10.1016/j.scitotenv.2021.145578" style="font-weight: bold; text-decoration: none;">Science of The Total Environment</a></p>
 </div>
 
@@ -209,7 +209,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Global overview for energy use of the world economy: Household-consumption-based accounting based on the world input-output database (WIOD)</p>
-  <p style="font-style: italic; text-align: left;">Chen, G.<sup>#，✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>, Guo, J., Meng, J., Li, C</p>
+  <p style="font-style: italic; text-align: left;">Chen, G.<sup>#,✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>, Guo, J., Meng, J., Li, C</p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Energy Economics</a></p>
 </div>
 
@@ -247,7 +247,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Contaminant transport from point source on water surface in open channel flow with bed absorption</p>
-  <p style="font-style: italic; text-align: left;">Guo, J., <strong>Wu, X.</strong>, Jiang, W.*, Chen, G.<sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;">Guo, J., <strong>Wu, X.</strong>, Jiang, W.<sup>✽</sup>, Chen, G.<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Hydrology</a></p>
 </div>
 
@@ -273,7 +273,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">A three-scale input-output analysis of water use in a regional economy: Hebei province in China</p>
-  <p style="font-style: italic; text-align: left;">Liu, S., <strong>Wu, X.</strong>, Han, M.<sup>✽</sup>, Zhang, J., Chen, B., Wu, X.F., Wei, W., Li, Z<sup>✽</sup> </p>
+  <p style="font-style: italic; text-align: left;">Liu, S.<sup>#</sup>, <strong>Wu, X.</strong><sup>#</sup>, Han, M.<sup>✽</sup>, Zhang, J., Chen, B., Wu, X.F., Wei, W., Li, Z<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Journal of Cleaner Production</a></p>
 </div>
 
@@ -319,7 +319,7 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Analysis of rural household energy consumption and renewable energy systems in Zhangziying town of Beijing</p>
-  <p style="font-style: italic; text-align: left;">Li, X.<sup>#</sup>, Lin, C.<sup>#，✽</sup>, Wang, Y., Zhao, L., Duan, N., <strong>Wu, X.</strong></p>
+  <p style="font-style: italic; text-align: left;">Li, X.<sup>#</sup>, Lin, C.<sup>#,✽</sup>, Wang, Y., Zhao, L., Duan, N., <strong>Wu, X.</strong></p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Ecological Modelling</a></p>
 </div>
 
