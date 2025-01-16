@@ -1,3 +1,21 @@
+- title: "Crop-Specific Emission Projection Suggests Peaking of Agricultural N2O by the Middle Century"
+  image: tian.png
+  description: This study uses an integrated assessment model with a land cover downscaling module to project crop-specific N2O emissions at 0.05° resolution under various SSP-RCP scenarios from 2025 to 2100. Results show a global N2O emission peak around 2065, ranging from 5.2 to 6.6 Tg N a–1. Corn cultivation is the main contributor, while rice emits less and peaks before 2025.
+  authors: Zhang, T., <strong>Wu, X.</strong><sup>✽</sup>, Li, C., Chen, C.
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.est.4c06592
+    display: Environmental Science & Technology, 58, Article number 52 (2024)
+  highlight: 1
+
+- title: "The effect of day-to-day temperature variability on agricultural productivity"
+  image: zou.jpg
+  description: This study examines how day-to-day temperature variability and shifts in rainfall patterns impacted global agricultural productivity from 1961 to 2018. Results show that day-to-day temperature variability both negatively affects total factor productivity (TFP) and shapes the influence of monthly average temperatures and wet days.
+  authors: Zou, Z., Li, C., <strong>Wu, X.</strong><sup>✽</sup>, Meng, Z., Chen, C.<sup>✽</sup>
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1748-9326/ad8ede
+    display: Environmental Research Letters, 19, Article number 12 (2024)
+  highlight: 1
+
 - title: "Mapping the spatial heterogeneity of global land use and land cover from 2020 to 2100 at a 1 km resolution"
   image: mapping.png
   description: This study aims to produce a gridded dataset of global LULC at 1 km × 1 km resolution under typical SSP-RCP scenarios from 2020 to 2100 by combining GCAM and the Patch-generating Land Use Simulation (PLUS) model. 
