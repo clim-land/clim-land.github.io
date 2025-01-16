@@ -58,13 +58,13 @@ permalink: /publications/
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">Crop-Specific Emission Projection Suggests Peaking of Agricultural N2O by the Middle Century</p>
-  <p style="font-style: italic; text-align: left;">Zhang, T., <strong>Wu, X.</strong><sup>✽</sup>, Li, C., Chen, C.
+  <p style="font-style: italic; text-align: left;">Zhang, T., <strong>Wu, X.</strong><sup>✽</sup>, Li, C., Chen, C. </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Environmental Science & Technology</a></p>
 </div>
 
 <div class="article">
   <p style="font-weight: bold; text-align: left;">The effect of day-to-day temperature variability on agricultural productivity</p>
-  <p style="font-style: italic; text-align: left;">Zou, Z., Li, C., <strong>Wu, X.</strong><sup>✽</sup>, Meng, Z., Chen, C.<sup>✽</sup>
+  <p style="font-style: italic; text-align: left;">Zou, Z., Li, C., <strong>Wu, X.</strong><sup>✽</sup>, Meng, Z., Chen, C.<sup>✽</sup> </p>
   <p><a href="10.1016/j.ecolecon.2023.107967" style="font-weight: bold; text-decoration: none;">Environmental Research Letters</a></p>
 </div>
 
