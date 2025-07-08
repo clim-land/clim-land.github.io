@@ -55,7 +55,5 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Interchange4.jpg" style="width: 50%; display: inline-block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/5.jpg" style="width: 45%; display: inline-block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/6.jpg" style="width: 45%; display: inline-block;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/c.jpg" style="width: 45%; display: inline-block;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/e.jpg" style="width: 45%; display: inline-block;">
 </figure>
 
