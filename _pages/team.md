@@ -109,3 +109,23 @@ permalink: /team/
   </ul>
 </div>
 
+<div class="col-sm-6 clearfix">
+  <img src="/images/teampic/moran1.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Moran Wang</h4>
+  <i>Graduated since 2025</i><br>
+  <i><!--<br>email: <email@example.com> --></i><br>
+  <ul style="overflow: hidden">
+    <!-- 这里可以放置更多的成员详细信息列表 -->
+  </ul>
+</div>
+
+<div class="col-sm-6 clearfix">
+  <img src="/images/teampic/Xintong.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Xintong Niu</h4>
+  <i>Graduated since 2025</i><br>
+  <i>Master graduate in Beijing Forestry University<!--<br>email: <email@example.com> --></i><br>
+  <ul style="overflow: hidden">
+    <!-- 这里可以放置更多的成员详细信息列表 -->
+  </ul>
+</div>
+
