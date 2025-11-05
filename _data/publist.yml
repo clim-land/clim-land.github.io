@@ -1,3 +1,21 @@
+- title: "Mapping Accumulated Carbon Storage of Global Mangroves from 2000 to 2020 at a 1 Km Resolution"
+  image: mapping1.png
+  description: This study pioneered the development of a global gridded dataset of mangrove accumulated carbon storage (2000–2020) at a 1 km resolution, by utilizing the most recent high-precision mangrove distribution data from the Global Mangrove Watch.
+  authors: Moran Wang, Tianyuan Zhang, Yongjuan Xie, Zhiqiang Zhang<sup>✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>. 
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.est.4c06592
+    display: Scientific data, 12, Article number 552 (2025)
+  highlight: 1
+
+- title: "Spatially Explicit Modeling of Global Tidal Marsh Accumulated Carbon Storage Revealed Its Heterogeneous Evolutionary Patterns Across World Regions During 2001-2020"
+  image: Spatially.png
+  description: This study conducted spatially explicit modelling of global tidal marsh accumulated carbon storage at a 1 km resolution from 2001 to 2020 and analyzed their spatiotemporal evolutional patterns at both global and regional scales.
+  authors: Zimeng Ge,Moran Wang,Yongjuan Xie, <strong>Wu, X.</strong><sup>✽</sup>.
+  link:
+    url: https://doi.org/10.1016/j.jenvman.2025.125630
+    display: Journal of environmental management, 387, Article number 125630 (2025)
+  highlight: 1
+
 - title: "Crop-Specific Emission Projection Suggests Peaking of Agricultural N2O by the Middle Century"
   image: tian.png
   description: This study uses an integrated assessment model with a land cover downscaling module to project crop-specific N2O emissions at 0.05° resolution under various SSP-RCP scenarios from 2025 to 2100. Results show a global N2O emission peak around 2065, ranging from 5.2 to 6.6 Tg N a–1. Corn cultivation is the main contributor, while rice emits less and peaks before 2025.
