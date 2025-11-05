@@ -54,6 +54,44 @@ permalink: /publications/
 ## List of publications 
  (<sup>#</sup> indicates equal contribution, and <sup>✽</sup> indicates the corresponding author.)
 
+## 2025
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Mapping Accumulated Carbon Storage of Global Mangroves from 2000 to 2020 at a 1 Km Resolution</p>
+  <p style="font-style: italic; text-align: left;">Moran Wang, Tianyuan Zhang, Yongjuan Xie, Zhiqiang Zhang<sup>✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>. </p>
+  <p><a href="https://pubs.acs.org/doi/10.1021/acs.est.4c06592" style="font-weight: bold; text-decoration: none;">Scientific data</a></p>
+</div>
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Economic Resilience of Regions Within the Global Supply Network in the Aftermath of Disaster: A Case Study of Typhoon Mangkhut</p>
+  <p style="font-style: italic; text-align: left;">Zhixiao Zou, Changxiu Cheng, Zhilin Song, <strong>Wu, X.</strong><sup>✽</sup>. </p>
+  <p><a href="https://doi.org/10.1016/j.ijdrr.2025.105275" style="font-weight: bold; text-decoration: none;">International Journal of Disaster Risk Reduction</a></p>
+</div>
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Social-Hydrological Dynamics along the Yellow River Belt: A Temporal-Spatial Investigation of Regional Groundwater Use in a Source-to-Sink Manner</p>
+  <p style="font-style: italic; text-align: left;">Xintong Niu, Jingyu Liu, Yinmao Zhao<sup>✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>, Man Guo. </p>
+  <p><a href="https://doi.org/10.1007/s00267-025-02148-8" style="font-weight: bold; text-decoration: none;">Environmental Management</a></p>
+</div>
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Spatially Explicit Modeling of Global Tidal Marsh Accumulated Carbon Storage Revealed Its Heterogeneous Evolutionary Patterns Across World Regions During 2001-2020</p>
+  <p style="font-style: italic; text-align: left;">Zimeng Ge,Moran Wang,Yongjuan Xie, <strong>Wu, X.</strong><sup>✽</sup>. </p>
+  <p><a href="https://doi.org/10.1016/j.jenvman.2025.125630" style="font-weight: bold; text-decoration: none;">Journal of environmental management</a></p>
+</div>
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Mapping the Harvest Area of a Comprehensive Set of Crop Types in China from 1990 to 2020 at a 1-Km Resolution</p>
+  <p style="font-style: italic; text-align: left;">Kaixuan Dai, Changxiu Cheng, Bin Li<sup>✽</sup>, Yun Xie<sup>✽</sup>, Jose Alfonso Gomez<sup>✽</sup>, Zheng Wang, <strong>Wu, X.</strong><sup>✽</sup>, Man Guo. </p>
+  <p><a href="https://doi.org/10.1038/s41597-025-05723-0" style="font-weight: bold; text-decoration: none;">Scientific data</a></p>
+</div>
+
+<div class="article">
+  <p style="font-weight: bold; text-align: left;">Mapping the Spatiotemporal Evolution of Cropland-Related Soil Erosion in China over the Past Four Decades</p>
+  <p style="font-style: italic; text-align: left;">Yitian Xie,Tianyuan Zhang,Zhiqiang Zhang<sup>✽</sup>, <strong>Wu, X.</strong><sup>✽</sup>. </p>
+  <p><a href="https://doi.org/10.3390/rs17091611" style="font-weight: bold; text-decoration: none;">Remote sensing</a></p>
+</div>
+
 ## 2024
 
 <div class="article">
